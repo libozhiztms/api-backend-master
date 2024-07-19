@@ -1,0 +1,44 @@
+2024-07-16 11:14:11,724 ERROR [UPDATE-DOMAIN] Exception while taking item from LinkedBlockingDeque.
+
+2024-07-16 16:24:51,796 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-16 16:24:51,797 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-16 16:25:02,812 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-16 16:25:02,812 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::, ips: 198.18.0.1:0_true,
+
+2024-07-16 16:55:25,759 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-16 16:55:25,759 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, ips: 
+
+2024-07-16 16:55:38,399 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-16 16:55:38,399 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-16 16:55:43,995 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-16 16:55:43,995 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::, ips: 
+
+2024-07-16 16:55:49,306 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-16 16:55:49,306 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::, ips: 198.18.0.1:0_true,
+
+2024-07-16 17:00:08,412 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-16 17:00:08,412 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::, ips: 
+
+2024-07-16 17:00:13,238 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-16 17:00:13,238 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::, ips: 198.18.0.1:0_true,
+
+2024-07-16 17:04:44,935 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-16 17:04:44,936 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, ips: 
+
+2024-07-16 17:04:48,649 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-16 17:04:48,649 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::, ips: 
+
+2024-07-16 17:06:12,900 ERROR [UPDATE-DOMAIN] Exception while taking item from LinkedBlockingDeque.
+

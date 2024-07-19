@@ -1,0 +1,476 @@
+2024-07-19 00:07:31,556 WARN clearConfigHistory start
+
+2024-07-19 00:07:31,556 INFO [capacityManagement] start correct usage
+
+2024-07-19 00:07:31,562 INFO [capacityManagement] end correct usage, cost: 0s
+
+2024-07-19 00:17:31,490 INFO [capacityManagement] start correct usage
+
+2024-07-19 00:17:31,490 WARN clearConfigHistory start
+
+2024-07-19 00:17:31,493 INFO [capacityManagement] end correct usage, cost: 0s
+
+2024-07-19 00:27:31,492 INFO [capacityManagement] start correct usage
+
+2024-07-19 00:27:31,493 WARN clearConfigHistory start
+
+2024-07-19 00:27:31,496 INFO [capacityManagement] end correct usage, cost: 0s
+
+2024-07-19 00:37:31,494 INFO [capacityManagement] start correct usage
+
+2024-07-19 00:37:31,494 WARN clearConfigHistory start
+
+2024-07-19 00:37:31,499 INFO [capacityManagement] end correct usage, cost: 0s
+
+2024-07-19 00:47:31,551 INFO [capacityManagement] start correct usage
+
+2024-07-19 00:47:31,552 WARN clearConfigHistory start
+
+2024-07-19 00:47:31,553 INFO [capacityManagement] end correct usage, cost: 0s
+
+2024-07-19 00:57:31,557 WARN clearConfigHistory start
+
+2024-07-19 00:57:31,557 INFO [capacityManagement] start correct usage
+
+2024-07-19 00:57:31,559 INFO [capacityManagement] end correct usage, cost: 0s
+
+2024-07-19 01:02:01,075 WARN [HttpClientBeanHolder] Start destroying common HttpClient
+
+2024-07-19 01:02:01,075 WARN [ConfigServer-HttpClientManager] Start destroying NacosRestTemplate
+
+2024-07-19 01:02:01,075 WARN [NotifyCenter] Start destroying Publisher
+
+2024-07-19 01:02:01,076 WARN [WatchFileCenter] start close
+
+2024-07-19 01:02:01,076 WARN [ThreadPoolManager] Start destroying ThreadPool
+
+2024-07-19 01:02:01,076 WARN [WatchFileCenter] start to shutdown this watcher which is watch : /Users/lilibozhi/Projects/ActualCombatProjects/api-backend-master/nacos-server/conf
+
+2024-07-19 01:02:01,076 WARN [NotifyCenter] Destruction of the end
+
+2024-07-19 01:02:01,076 WARN [WatchFileCenter] already closed
+
+2024-07-19 01:02:01,080 WARN [ConfigServer-HttpClientManager] Destruction of the end
+
+2024-07-19 01:02:01,080 WARN [HttpClientBeanHolder] Destruction of the end
+
+2024-07-19 01:02:01,083 INFO Shutting down ExecutorService 'taskScheduler'
+
+2024-07-19 01:02:01,084 INFO Shutting down ExecutorService 'applicationTaskExecutor'
+
+2024-07-19 01:02:19,720 WARN [ThreadPoolManager] Destruction of the end
+
+2024-07-19 18:27:45,119 INFO Starting Nacos v1.4.2 on libozhiMacBook-Pro.local with PID 42499 (/Users/lilibozhi/Projects/ActualCombatProjects/api-backend-master/nacos-server/target/nacos-server.jar started by lilibozhi in /Users/lilibozhi/Projects/ActualCombatProjects/api-backend-master/nacos-server)
+
+2024-07-19 18:27:45,119 INFO The following profiles are active: standalone
+
+2024-07-19 18:27:46,651 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@6853425f' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2024-07-19 18:27:46,654 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2024-07-19 18:27:46,896 INFO Tomcat initialized with port(s): 8848 (http)
+
+2024-07-19 18:27:46,916 INFO Starting service [Tomcat]
+
+2024-07-19 18:27:46,916 INFO Starting Servlet engine: [Apache Tomcat/9.0.38]
+
+2024-07-19 18:27:47,077 INFO At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+
+2024-07-19 18:27:47,108 INFO Initializing Spring embedded WebApplicationContext
+
+2024-07-19 18:27:47,108 INFO Root WebApplicationContext: initialization completed in 1941 ms
+
+2024-07-19 18:27:47,362 INFO HikariPool-1 - Starting...
+
+2024-07-19 18:27:47,363 WARN Registered driver with driverClassName=org.apache.derby.jdbc.EmbeddedDriver was not found, trying direct instantiation.
+
+2024-07-19 18:27:47,534 INFO HikariPool-1 - Driver does not support get/set network timeout for connections. (Feature not implemented: No details.)
+
+2024-07-19 18:27:47,536 INFO HikariPool-1 - Start completed.
+
+2024-07-19 18:27:47,916 INFO Nacos-related cluster resource initialization
+
+2024-07-19 18:27:47,921 INFO The cluster resource is initialized
+
+2024-07-19 18:27:48,134 INFO Reflections took 51 ms to scan 1 urls, producing 4 keys and 6 values 
+
+2024-07-19 18:27:48,162 INFO Reflections took 4 ms to scan 1 urls, producing 6 keys and 26 values 
+
+2024-07-19 18:27:48,173 INFO Reflections took 3 ms to scan 1 urls, producing 3 keys and 15 values 
+
+2024-07-19 18:27:48,179 INFO Reflections took 1 ms to scan 1 urls, producing 2 keys and 12 values 
+
+2024-07-19 18:27:48,620 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2024-07-19 18:27:48,697 INFO Adding welcome page: class path resource [static/index.html]
+
+2024-07-19 18:27:48,905 INFO Creating filter chain: Ant [pattern='/**'], []
+
+2024-07-19 18:27:48,924 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@50305a, org.springframework.security.web.context.SecurityContextPersistenceFilter@158d255c, org.springframework.security.web.header.HeaderWriterFilter@48f5bde6, org.springframework.security.web.csrf.CsrfFilter@30b34287, org.springframework.security.web.authentication.logout.LogoutFilter@672f11c2, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@327120c8, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@35038141, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@72efb5c1, org.springframework.security.web.session.SessionManagementFilter@5149f008, org.springframework.security.web.access.ExceptionTranslationFilter@3676ac27]
+
+2024-07-19 18:27:48,975 INFO Initializing ExecutorService 'taskScheduler'
+
+2024-07-19 18:27:48,985 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2024-07-19 18:27:49,040 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2024-07-19 18:27:49,042 INFO Started Nacos in 4.431 seconds (JVM running for 4.761)
+
+2024-07-19 18:27:49,042 INFO Nacos started successfully in stand alone mode. use embedded storage
+
+2024-07-19 18:27:49,439 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2024-07-19 18:27:49,439 INFO Initializing Servlet 'dispatcherServlet'
+
+2024-07-19 18:27:49,443 INFO Completed initialization in 4 ms
+
+2024-07-19 18:37:48,264 INFO [capacityManagement] start correct usage
+
+2024-07-19 18:37:48,294 INFO [capacityManagement] end correct usage, cost: 0s
+
+2024-07-19 18:37:48,462 WARN clearConfigHistory start
+
+2024-07-19 18:47:48,327 INFO [capacityManagement] start correct usage
+
+2024-07-19 18:47:48,329 INFO [capacityManagement] end correct usage, cost: 0s
+
+2024-07-19 18:47:48,509 WARN clearConfigHistory start
+
+2024-07-19 18:57:48,339 INFO [capacityManagement] start correct usage
+
+2024-07-19 18:57:48,340 INFO [capacityManagement] end correct usage, cost: 0s
+
+2024-07-19 18:57:48,521 WARN clearConfigHistory start
+
+2024-07-19 19:07:48,374 INFO [capacityManagement] start correct usage
+
+2024-07-19 19:07:48,376 INFO [capacityManagement] end correct usage, cost: 0s
+
+2024-07-19 19:07:48,554 WARN clearConfigHistory start
+
+2024-07-19 19:17:48,383 INFO [capacityManagement] start correct usage
+
+2024-07-19 19:17:48,387 INFO [capacityManagement] end correct usage, cost: 0s
+
+2024-07-19 19:17:48,561 WARN clearConfigHistory start
+
+2024-07-19 19:27:48,382 INFO [capacityManagement] start correct usage
+
+2024-07-19 19:27:48,385 INFO [capacityManagement] end correct usage, cost: 0s
+
+2024-07-19 19:27:48,562 WARN clearConfigHistory start
+
+2024-07-19 19:37:48,391 INFO [capacityManagement] start correct usage
+
+2024-07-19 19:37:48,393 INFO [capacityManagement] end correct usage, cost: 0s
+
+2024-07-19 19:37:48,570 WARN clearConfigHistory start
+
+2024-07-19 19:47:48,405 INFO [capacityManagement] start correct usage
+
+2024-07-19 19:47:48,406 INFO [capacityManagement] end correct usage, cost: 0s
+
+2024-07-19 19:47:48,576 WARN clearConfigHistory start
+
+2024-07-19 19:57:17,956 WARN [WatchFileCenter] start close
+
+2024-07-19 19:57:17,957 WARN [WatchFileCenter] start to shutdown this watcher which is watch : /Users/lilibozhi/Projects/ActualCombatProjects/api-backend-master/nacos-server/conf
+
+2024-07-19 19:57:17,957 WARN [ConfigServer-HttpClientManager] Start destroying NacosRestTemplate
+
+2024-07-19 19:57:17,957 WARN [NotifyCenter] Start destroying Publisher
+
+2024-07-19 19:57:17,957 WARN [WatchFileCenter] already closed
+
+2024-07-19 19:57:17,957 WARN [NotifyCenter] Destruction of the end
+
+2024-07-19 19:57:17,957 WARN [HttpClientBeanHolder] Start destroying common HttpClient
+
+2024-07-19 19:57:17,958 WARN [ThreadPoolManager] Start destroying ThreadPool
+
+2024-07-19 19:57:17,960 WARN [HttpClientBeanHolder] Destruction of the end
+
+2024-07-19 19:57:17,960 WARN [ConfigServer-HttpClientManager] Destruction of the end
+
+2024-07-19 19:57:17,962 INFO Shutting down ExecutorService 'taskScheduler'
+
+2024-07-19 19:57:17,963 INFO Shutting down ExecutorService 'applicationTaskExecutor'
+
+2024-07-19 19:57:30,906 WARN [ThreadPoolManager] Destruction of the end
+
+2024-07-19 20:23:48,173 INFO Starting Nacos v1.4.2 on libozhiMacBook-Pro.local with PID 53171 (/Users/lilibozhi/Projects/ActualCombatProjects/api-backend-master/nacos-server/target/nacos-server.jar started by lilibozhi in /Users/lilibozhi/Projects/ActualCombatProjects/api-backend-master/nacos-server)
+
+2024-07-19 20:23:48,174 INFO The following profiles are active: standalone
+
+2024-07-19 20:23:49,703 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@7d898981' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2024-07-19 20:23:49,713 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2024-07-19 20:23:49,952 INFO Tomcat initialized with port(s): 8848 (http)
+
+2024-07-19 20:23:49,974 INFO Starting service [Tomcat]
+
+2024-07-19 20:23:49,974 INFO Starting Servlet engine: [Apache Tomcat/9.0.38]
+
+2024-07-19 20:23:50,137 INFO At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+
+2024-07-19 20:23:50,168 INFO Initializing Spring embedded WebApplicationContext
+
+2024-07-19 20:23:50,168 INFO Root WebApplicationContext: initialization completed in 1924 ms
+
+2024-07-19 20:23:50,434 INFO HikariPool-1 - Starting...
+
+2024-07-19 20:23:50,435 WARN Registered driver with driverClassName=org.apache.derby.jdbc.EmbeddedDriver was not found, trying direct instantiation.
+
+2024-07-19 20:23:50,603 INFO HikariPool-1 - Driver does not support get/set network timeout for connections. (Feature not implemented: No details.)
+
+2024-07-19 20:23:50,605 INFO HikariPool-1 - Start completed.
+
+2024-07-19 20:23:51,032 INFO Nacos-related cluster resource initialization
+
+2024-07-19 20:23:51,037 INFO The cluster resource is initialized
+
+2024-07-19 20:23:51,243 INFO Reflections took 24 ms to scan 1 urls, producing 4 keys and 6 values 
+
+2024-07-19 20:23:51,259 INFO Reflections took 3 ms to scan 1 urls, producing 6 keys and 26 values 
+
+2024-07-19 20:23:51,268 INFO Reflections took 3 ms to scan 1 urls, producing 3 keys and 15 values 
+
+2024-07-19 20:23:51,274 INFO Reflections took 2 ms to scan 1 urls, producing 2 keys and 12 values 
+
+2024-07-19 20:23:51,747 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2024-07-19 20:23:51,826 INFO Adding welcome page: class path resource [static/index.html]
+
+2024-07-19 20:23:52,043 INFO Creating filter chain: Ant [pattern='/**'], []
+
+2024-07-19 20:23:52,062 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@672f11c2, org.springframework.security.web.context.SecurityContextPersistenceFilter@5149f008, org.springframework.security.web.header.HeaderWriterFilter@3676ac27, org.springframework.security.web.csrf.CsrfFilter@26b894bd, org.springframework.security.web.authentication.logout.LogoutFilter@35038141, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@158d255c, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5707c1cb, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2970a5bc, org.springframework.security.web.session.SessionManagementFilter@48f5bde6, org.springframework.security.web.access.ExceptionTranslationFilter@30b34287]
+
+2024-07-19 20:23:52,112 INFO Initializing ExecutorService 'taskScheduler'
+
+2024-07-19 20:23:52,122 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2024-07-19 20:23:52,201 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2024-07-19 20:23:52,203 INFO Started Nacos in 4.499 seconds (JVM running for 4.853)
+
+2024-07-19 20:23:52,203 INFO Nacos started successfully in stand alone mode. use embedded storage
+
+2024-07-19 20:24:04,551 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2024-07-19 20:24:04,551 INFO Initializing Servlet 'dispatcherServlet'
+
+2024-07-19 20:24:04,554 INFO Completed initialization in 3 ms
+
+2024-07-19 20:25:01,359 WARN [NotifyCenter] Start destroying Publisher
+
+2024-07-19 20:25:01,359 WARN [ThreadPoolManager] Start destroying ThreadPool
+
+2024-07-19 20:25:01,359 WARN [NotifyCenter] Destruction of the end
+
+2024-07-19 20:25:01,360 WARN [ConfigServer-HttpClientManager] Start destroying NacosRestTemplate
+
+2024-07-19 20:25:01,360 WARN [WatchFileCenter] start close
+
+2024-07-19 20:25:01,360 WARN [WatchFileCenter] start to shutdown this watcher which is watch : /Users/lilibozhi/Projects/ActualCombatProjects/api-backend-master/nacos-server/conf
+
+2024-07-19 20:25:01,360 WARN [HttpClientBeanHolder] Start destroying common HttpClient
+
+2024-07-19 20:25:01,360 WARN [WatchFileCenter] already closed
+
+2024-07-19 20:25:01,361 WARN [HttpClientBeanHolder] Destruction of the end
+
+2024-07-19 20:25:01,361 WARN [ConfigServer-HttpClientManager] Destruction of the end
+
+2024-07-19 20:25:01,362 INFO Shutting down ExecutorService 'taskScheduler'
+
+2024-07-19 20:25:01,364 INFO Shutting down ExecutorService 'applicationTaskExecutor'
+
+2024-07-19 20:25:19,377 WARN [ThreadPoolManager] Destruction of the end
+
+2024-07-19 21:15:15,795 INFO Starting Nacos v1.4.2 on libozhiMacBook-Pro.local with PID 58690 (/Users/lilibozhi/Projects/ActualCombatProjects/api-backend-master/nacos-server/target/nacos-server.jar started by lilibozhi in /Users/lilibozhi/Projects/ActualCombatProjects/api-backend-master/nacos-server)
+
+2024-07-19 21:15:15,795 INFO The following profiles are active: standalone
+
+2024-07-19 21:15:17,379 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@258d79be' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2024-07-19 21:15:17,383 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2024-07-19 21:15:17,689 INFO Tomcat initialized with port(s): 8848 (http)
+
+2024-07-19 21:15:17,711 INFO Starting service [Tomcat]
+
+2024-07-19 21:15:17,711 INFO Starting Servlet engine: [Apache Tomcat/9.0.38]
+
+2024-07-19 21:15:17,868 INFO At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+
+2024-07-19 21:15:17,901 INFO Initializing Spring embedded WebApplicationContext
+
+2024-07-19 21:15:17,904 INFO Root WebApplicationContext: initialization completed in 2064 ms
+
+2024-07-19 21:15:18,194 INFO HikariPool-1 - Starting...
+
+2024-07-19 21:15:18,195 WARN Registered driver with driverClassName=org.apache.derby.jdbc.EmbeddedDriver was not found, trying direct instantiation.
+
+2024-07-19 21:15:18,368 INFO HikariPool-1 - Driver does not support get/set network timeout for connections. (Feature not implemented: No details.)
+
+2024-07-19 21:15:18,371 INFO HikariPool-1 - Start completed.
+
+2024-07-19 21:15:18,772 INFO Nacos-related cluster resource initialization
+
+2024-07-19 21:15:18,777 INFO The cluster resource is initialized
+
+2024-07-19 21:15:18,997 INFO Reflections took 38 ms to scan 1 urls, producing 4 keys and 6 values 
+
+2024-07-19 21:15:19,015 INFO Reflections took 5 ms to scan 1 urls, producing 6 keys and 26 values 
+
+2024-07-19 21:15:19,024 INFO Reflections took 3 ms to scan 1 urls, producing 3 keys and 15 values 
+
+2024-07-19 21:15:19,028 INFO Reflections took 1 ms to scan 1 urls, producing 2 keys and 12 values 
+
+2024-07-19 21:15:19,609 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2024-07-19 21:15:19,697 INFO Adding welcome page: class path resource [static/index.html]
+
+2024-07-19 21:15:19,938 INFO Creating filter chain: Ant [pattern='/**'], []
+
+2024-07-19 21:15:19,959 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@702ed190, org.springframework.security.web.context.SecurityContextPersistenceFilter@324c64cd, org.springframework.security.web.header.HeaderWriterFilter@40f33492, org.springframework.security.web.csrf.CsrfFilter@50305a, org.springframework.security.web.authentication.logout.LogoutFilter@120f38e6, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@24be2d9c, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2555fff0, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@173b9122, org.springframework.security.web.session.SessionManagementFilter@2ad3a1bb, org.springframework.security.web.access.ExceptionTranslationFilter@6d511b5f]
+
+2024-07-19 21:15:20,018 INFO Initializing ExecutorService 'taskScheduler'
+
+2024-07-19 21:15:20,029 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2024-07-19 21:15:20,092 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2024-07-19 21:15:20,094 INFO Started Nacos in 4.763 seconds (JVM running for 5.096)
+
+2024-07-19 21:15:20,094 INFO Nacos started successfully in stand alone mode. use embedded storage
+
+2024-07-19 21:20:01,317 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2024-07-19 21:20:01,318 INFO Initializing Servlet 'dispatcherServlet'
+
+2024-07-19 21:20:01,321 INFO Completed initialization in 3 ms
+
+2024-07-19 21:25:19,110 INFO [capacityManagement] start correct usage
+
+2024-07-19 21:25:19,126 INFO [capacityManagement] end correct usage, cost: 0s
+
+2024-07-19 21:25:19,263 WARN clearConfigHistory start
+
+2024-07-19 21:27:28,983 WARN [ThreadPoolManager] Start destroying ThreadPool
+
+2024-07-19 21:27:28,984 WARN [ConfigServer-HttpClientManager] Start destroying NacosRestTemplate
+
+2024-07-19 21:27:28,984 WARN [HttpClientBeanHolder] Start destroying common HttpClient
+
+2024-07-19 21:27:28,983 WARN [WatchFileCenter] start close
+
+2024-07-19 21:27:28,984 WARN [NotifyCenter] Start destroying Publisher
+
+2024-07-19 21:27:28,984 WARN [WatchFileCenter] start to shutdown this watcher which is watch : /Users/lilibozhi/Projects/ActualCombatProjects/api-backend-master/nacos-server/conf
+
+2024-07-19 21:27:28,984 WARN [NotifyCenter] Destruction of the end
+
+2024-07-19 21:27:28,984 WARN [WatchFileCenter] already closed
+
+2024-07-19 21:27:28,987 WARN [ConfigServer-HttpClientManager] Destruction of the end
+
+2024-07-19 21:27:28,987 WARN [HttpClientBeanHolder] Destruction of the end
+
+2024-07-19 21:27:28,990 INFO Shutting down ExecutorService 'taskScheduler'
+
+2024-07-19 21:27:28,991 INFO Shutting down ExecutorService 'applicationTaskExecutor'
+
+2024-07-19 21:27:48,398 WARN [ThreadPoolManager] Destruction of the end
+
+2024-07-19 21:28:08,839 INFO Starting Nacos v1.4.2 on libozhiMacBook-Pro.local with PID 60207 (/Users/lilibozhi/Projects/ActualCombatProjects/api-backend-master/nacos-server/target/nacos-server.jar started by lilibozhi in /Users/lilibozhi/Projects/ActualCombatProjects/api-backend-master/nacos-server)
+
+2024-07-19 21:28:08,839 INFO The following profiles are active: standalone
+
+2024-07-19 21:28:10,407 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@18e36d14' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2024-07-19 21:28:10,410 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2024-07-19 21:28:10,611 INFO Tomcat initialized with port(s): 8848 (http)
+
+2024-07-19 21:28:10,632 INFO Starting service [Tomcat]
+
+2024-07-19 21:28:10,632 INFO Starting Servlet engine: [Apache Tomcat/9.0.38]
+
+2024-07-19 21:28:10,809 INFO At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+
+2024-07-19 21:28:10,839 INFO Initializing Spring embedded WebApplicationContext
+
+2024-07-19 21:28:10,840 INFO Root WebApplicationContext: initialization completed in 1957 ms
+
+2024-07-19 21:28:11,113 INFO HikariPool-1 - Starting...
+
+2024-07-19 21:28:11,114 WARN Registered driver with driverClassName=org.apache.derby.jdbc.EmbeddedDriver was not found, trying direct instantiation.
+
+2024-07-19 21:28:11,281 INFO HikariPool-1 - Driver does not support get/set network timeout for connections. (Feature not implemented: No details.)
+
+2024-07-19 21:28:11,283 INFO HikariPool-1 - Start completed.
+
+2024-07-19 21:28:11,663 INFO Nacos-related cluster resource initialization
+
+2024-07-19 21:28:11,668 INFO The cluster resource is initialized
+
+2024-07-19 21:28:11,863 INFO Reflections took 21 ms to scan 1 urls, producing 4 keys and 6 values 
+
+2024-07-19 21:28:11,886 INFO Reflections took 3 ms to scan 1 urls, producing 6 keys and 26 values 
+
+2024-07-19 21:28:11,895 INFO Reflections took 3 ms to scan 1 urls, producing 3 keys and 15 values 
+
+2024-07-19 21:28:11,899 INFO Reflections took 1 ms to scan 1 urls, producing 2 keys and 12 values 
+
+2024-07-19 21:28:12,383 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2024-07-19 21:28:12,477 INFO Adding welcome page: class path resource [static/index.html]
+
+2024-07-19 21:28:12,695 INFO Creating filter chain: Ant [pattern='/**'], []
+
+2024-07-19 21:28:12,712 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@324c64cd, org.springframework.security.web.context.SecurityContextPersistenceFilter@2970a5bc, org.springframework.security.web.header.HeaderWriterFilter@2b5cb9b2, org.springframework.security.web.csrf.CsrfFilter@158d255c, org.springframework.security.web.authentication.logout.LogoutFilter@2ad3a1bb, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@72efb5c1, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@40f33492, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@13579834, org.springframework.security.web.session.SessionManagementFilter@ecf9049, org.springframework.security.web.access.ExceptionTranslationFilter@327120c8]
+
+2024-07-19 21:28:12,760 INFO Initializing ExecutorService 'taskScheduler'
+
+2024-07-19 21:28:12,769 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2024-07-19 21:28:12,821 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2024-07-19 21:28:12,823 INFO Started Nacos in 4.45 seconds (JVM running for 4.776)
+
+2024-07-19 21:28:12,823 INFO Nacos started successfully in stand alone mode. use embedded storage
+
+2024-07-19 21:28:12,885 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2024-07-19 21:28:12,885 INFO Initializing Servlet 'dispatcherServlet'
+
+2024-07-19 21:28:12,889 INFO Completed initialization in 4 ms
+
+2024-07-19 21:28:47,353 WARN [ConfigServer-HttpClientManager] Start destroying NacosRestTemplate
+
+2024-07-19 21:28:47,353 WARN [HttpClientBeanHolder] Start destroying common HttpClient
+
+2024-07-19 21:28:47,353 WARN [ThreadPoolManager] Start destroying ThreadPool
+
+2024-07-19 21:28:47,353 WARN [NotifyCenter] Start destroying Publisher
+
+2024-07-19 21:28:47,353 WARN [WatchFileCenter] start close
+
+2024-07-19 21:28:47,353 WARN [NotifyCenter] Destruction of the end
+
+2024-07-19 21:28:47,353 WARN [WatchFileCenter] start to shutdown this watcher which is watch : /Users/lilibozhi/Projects/ActualCombatProjects/api-backend-master/nacos-server/conf
+
+2024-07-19 21:28:47,353 WARN [WatchFileCenter] already closed
+
+2024-07-19 21:28:47,355 WARN [HttpClientBeanHolder] Destruction of the end
+
+2024-07-19 21:28:47,355 WARN [ConfigServer-HttpClientManager] Destruction of the end
+
+2024-07-19 21:28:47,355 INFO Shutting down ExecutorService 'taskScheduler'
+
+2024-07-19 21:28:47,356 INFO Shutting down ExecutorService 'applicationTaskExecutor'
+
+2024-07-19 21:29:10,065 WARN [ThreadPoolManager] Destruction of the end
+

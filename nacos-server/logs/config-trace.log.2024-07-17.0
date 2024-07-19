@@ -1,0 +1,8 @@
+2024-07-17 16:24:01,150|192.168.3.28|dubbo.properties|dubbo|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2024-07-17 16:24:01,166|192.168.3.28|dubbo.properties|dubbo-springboot-demo-provider|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2024-07-17 16:24:01,220|192.168.3.28|dubbo-springboot-demo-provider.configurators|dubbo|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2024-07-17 16:24:01,242|192.168.3.28|com.lilibozhi.project.provider.DemoService::.configurators|dubbo|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2024-07-17 16:24:01,432|192.168.3.28|dubbo-springboot-demo-provider.migration|MIGRATION|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2024-07-17 16:24:01,505|192.168.3.28|com.lilibozhi.project.provider.DemoService:::provider:dubbo-springboot-demo-provider|dubbo|null|unknown|1721204641479|192.168.3.28|persist|pub|-1|07f305e1abfbd6f7ca5335fc9df3a054
+2024-07-17 16:24:01,547|192.168.3.28|com.lilibozhi.project.provider.DemoService:::provider:dubbo-springboot-demo-provider|dubbo|null|null|1721204641479|192.168.3.28|notify|ok|66|192.168.3.28:8848
+2024-07-17 16:24:01,614|192.168.3.28|com.lilibozhi.project.provider.DemoService:::provider:dubbo-springboot-demo-provider|dubbo|null|null|1721204641479|192.168.3.28|dump|ok|135|2279

@@ -1,0 +1,16 @@
+2024-07-17 16:23:52,652 INFO GlobalConfig{taskDispatchPeriod=2000, batchSyncKeyCount=1000, syncRetryDelay=5000, dataWarmup=false, expireInstance=true, loadDataRetryDelayMillis=30000}
+
+2024-07-17 16:23:52,916 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2024-07-17 16:23:52,917 INFO listen for service meta change
+
+2024-07-17 16:23:57,650 INFO [NACOS-DISTRO] healthy server list changed, old: [192.168.3.28:8848], new: [192.168.3.28:8848]
+
+2024-07-17 16:24:01,310 INFO creating empty service public:DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::
+
+2024-07-17 16:24:01,390 INFO [NEW-SERVICE] {"name":"DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":0,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1721204641311,"checksum":"f5227c751eb7d44a58fa4c2ca264b307","clusterMap":{},"empty":true}
+
+2024-07-17 16:24:01,393 WARN cluster: DEFAULT not found, ip: {"instanceId":"198.18.0.1#22221#DEFAULT#DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::","ip":"198.18.0.1","port":22221,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::","metadata":{"side":"provider","service.name":"ServiceBean:/com.lilibozhi.project.provider.DemoService","methods":"sayHello,sayHelloAsync,sayHello2","release":"2.7.23","deprecated":"false","dubbo":"2.0.2","pid":"91606","interface":"com.lilibozhi.project.provider.DemoService","generic":"false","path":"com.lilibozhi.project.provider.DemoService","protocol":"dubbo","metadata-type":"remote","application":"dubbo-springboot-demo-provider","dynamic":"true","category":"providers","anyhost":"true","timestamp":"1721204641192"},"lastBeat":1721204641303,"marked":false,"app":"unknown","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}, will create new cluster with default configuration.
+
+2024-07-17 16:24:01,395 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, value: {"instanceList":[{"instanceId":"198.18.0.1#22221#DEFAULT#DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::","ip":"198.18.0.1","port":22221,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::","metadata":{"side":"provider","service.name":"ServiceBean:/com.lilibozhi.project.provider.DemoService","methods":"sayHello,sayHelloAsync,sayHello2","release":"2.7.23","deprecated":"false","dubbo":"2.0.2","pid":"91606","interface":"com.lilibozhi.project.provider.DemoService","generic":"false","path":"com.lilibozhi.project.provider.DemoService","protocol":"dubbo","metadata-type":"remote","application":"dubbo-springboot-demo-provider","dynamic":"true","category":"providers","anyhost":"true","timestamp":"1721204641192"},"lastBeat":1721204641303,"marked":false,"app":"unknown","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]}
+

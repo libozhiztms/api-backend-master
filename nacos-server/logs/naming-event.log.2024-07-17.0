@@ -1,0 +1,4 @@
+2024-07-17 16:24:01,396 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-17 16:24:01,397 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, ips: 198.18.0.1:22221_true,
+

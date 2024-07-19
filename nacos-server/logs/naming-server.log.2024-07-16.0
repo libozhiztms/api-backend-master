@@ -1,0 +1,135 @@
+2024-07-16 11:13:08,333 INFO GlobalConfig{taskDispatchPeriod=2000, batchSyncKeyCount=1000, syncRetryDelay=5000, dataWarmup=false, expireInstance=true, loadDataRetryDelayMillis=30000}
+
+2024-07-16 11:13:08,596 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2024-07-16 11:13:08,597 INFO listen for service meta change
+
+2024-07-16 11:13:13,337 INFO [NACOS-DISTRO] healthy server list changed, old: [192.168.3.28:8848], new: [192.168.3.28:8848]
+
+2024-07-16 11:13:58,428 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2024-07-16 11:13:58,430 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2024-07-16 11:14:08,712 ERROR [HEALTH-CHECK] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2019)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2093)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.TcpSuperSenseProcessor.processTask(TcpSuperSenseProcessor.java:137)
+	at com.alibaba.nacos.naming.healthcheck.TcpSuperSenseProcessor.run(TcpSuperSenseProcessor.java:154)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+2024-07-16 15:10:17,179 INFO GlobalConfig{taskDispatchPeriod=2000, batchSyncKeyCount=1000, syncRetryDelay=5000, dataWarmup=false, expireInstance=true, loadDataRetryDelayMillis=30000}
+
+2024-07-16 15:10:17,450 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2024-07-16 15:10:17,450 INFO listen for service meta change
+
+2024-07-16 15:10:22,181 INFO [NACOS-DISTRO] healthy server list changed, old: [192.168.3.28:8848], new: [192.168.3.28:8848]
+
+2024-07-16 16:24:51,702 INFO creating empty service public:DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::
+
+2024-07-16 16:24:51,789 INFO [NEW-SERVICE] {"name":"DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":0,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1721118291703,"checksum":"f5227c751eb7d44a58fa4c2ca264b307","clusterMap":{},"empty":true}
+
+2024-07-16 16:24:51,792 WARN cluster: DEFAULT not found, ip: {"instanceId":"198.18.0.1#22221#DEFAULT#DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::","ip":"198.18.0.1","port":22221,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::","metadata":{"side":"provider","service.name":"ServiceBean:/com.lilibozhi.project.provider.DemoService","methods":"sayHello,sayHelloAsync,sayHello2","release":"2.7.23","deprecated":"false","dubbo":"2.0.2","pid":"20321","interface":"com.lilibozhi.project.provider.DemoService","generic":"false","path":"com.lilibozhi.project.provider.DemoService","protocol":"dubbo","metadata-type":"remote","application":"dubbo-springboot-demo-provider","dynamic":"true","category":"providers","anyhost":"true","timestamp":"1721118291610"},"lastBeat":1721118291696,"marked":false,"app":"unknown","ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000}, will create new cluster with default configuration.
+
+2024-07-16 16:24:51,795 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, value: {"instanceList":[{"instanceId":"198.18.0.1#22221#DEFAULT#DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::","ip":"198.18.0.1","port":22221,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::","metadata":{"side":"provider","service.name":"ServiceBean:/com.lilibozhi.project.provider.DemoService","methods":"sayHello,sayHelloAsync,sayHello2","release":"2.7.23","deprecated":"false","dubbo":"2.0.2","pid":"20321","interface":"com.lilibozhi.project.provider.DemoService","generic":"false","path":"com.lilibozhi.project.provider.DemoService","protocol":"dubbo","metadata-type":"remote","application":"dubbo-springboot-demo-provider","dynamic":"true","category":"providers","anyhost":"true","timestamp":"1721118291610"},"lastBeat":1721118291696,"marked":false,"app":"unknown","ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000}]}
+
+2024-07-16 16:25:02,811 INFO creating empty service public:DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::
+
+2024-07-16 16:25:02,812 INFO [NEW-SERVICE] {"name":"DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":0,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1721118302811,"checksum":"8e472fe432fd737b0617b8974ec21190","clusterMap":{},"empty":true}
+
+2024-07-16 16:25:02,812 WARN cluster: DEFAULT not found, ip: {"instanceId":"198.18.0.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::","ip":"198.18.0.1","port":0,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::","metadata":{"init":"false","side":"consumer","methods":"sayHello,sayHelloAsync,sayHello2","release":"2.7.23","dubbo":"2.0.2","pid":"20353","check":"false","interface":"com.lilibozhi.project.provider.DemoService","path":"com.lilibozhi.project.provider.DemoService","protocol":"consumer","metadata-type":"remote","application":"dubbo-springboot-demo-provider","sticky":"false","category":"consumers","timestamp":"1721118302591"},"lastBeat":1721118302811,"marked":false,"app":"unknown","ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000}, will create new cluster with default configuration.
+
+2024-07-16 16:25:02,812 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::, value: {"instanceList":[{"instanceId":"198.18.0.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::","ip":"198.18.0.1","port":0,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::","metadata":{"init":"false","side":"consumer","methods":"sayHello,sayHelloAsync,sayHello2","release":"2.7.23","dubbo":"2.0.2","pid":"20353","check":"false","interface":"com.lilibozhi.project.provider.DemoService","path":"com.lilibozhi.project.provider.DemoService","protocol":"consumer","metadata-type":"remote","application":"dubbo-springboot-demo-provider","sticky":"false","category":"consumers","timestamp":"1721118302591"},"lastBeat":1721118302811,"marked":false,"app":"unknown","ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000}]}
+
+2024-07-16 16:55:25,759 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, value: {"instanceList":[]}
+
+2024-07-16 16:55:38,399 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, value: {"instanceList":[{"instanceId":"198.18.0.1#22221#DEFAULT#DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::","ip":"198.18.0.1","port":22221,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::","metadata":{"side":"provider","service.name":"ServiceBean:/com.lilibozhi.project.provider.DemoService","methods":"sayHello,sayHelloAsync,sayHello2","release":"2.7.23","deprecated":"false","dubbo":"2.0.2","pid":"23052","interface":"com.lilibozhi.project.provider.DemoService","generic":"false","path":"com.lilibozhi.project.provider.DemoService","protocol":"dubbo","metadata-type":"remote","application":"dubbo-springboot-demo-provider","dynamic":"true","category":"providers","anyhost":"true","timestamp":"1721120138306"},"lastBeat":1721120138398,"marked":false,"app":"unknown","ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000}]}
+
+2024-07-16 16:55:43,994 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::, value: {"instanceList":[]}
+
+2024-07-16 16:55:49,306 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::, value: {"instanceList":[{"instanceId":"198.18.0.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::","ip":"198.18.0.1","port":0,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::","metadata":{"init":"false","side":"consumer","methods":"sayHello,sayHelloAsync,sayHello2","release":"2.7.23","dubbo":"2.0.2","pid":"23079","check":"false","interface":"com.lilibozhi.project.provider.DemoService","path":"com.lilibozhi.project.provider.DemoService","protocol":"consumer","metadata-type":"remote","application":"dubbo-springboot-demo-provider","sticky":"false","category":"consumers","timestamp":"1721120149084"},"lastBeat":1721120149306,"marked":false,"app":"unknown","ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000}]}
+
+2024-07-16 17:00:08,412 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::, value: {"instanceList":[]}
+
+2024-07-16 17:00:13,238 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::, value: {"instanceList":[{"instanceId":"198.18.0.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::","ip":"198.18.0.1","port":0,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::","metadata":{"init":"false","side":"consumer","methods":"sayHello,sayHelloAsync,sayHello2","release":"2.7.23","dubbo":"2.0.2","pid":"23506","check":"false","interface":"com.lilibozhi.project.provider.DemoService","path":"com.lilibozhi.project.provider.DemoService","protocol":"consumer","metadata-type":"remote","application":"dubbo-springboot-demo-provider","sticky":"false","category":"consumers","timestamp":"1721120413016"},"lastBeat":1721120413238,"marked":false,"app":"unknown","ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000}]}
+
+2024-07-16 17:04:44,935 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, value: {"instanceList":[]}
+
+2024-07-16 17:04:48,648 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::, value: {"instanceList":[]}
+
+2024-07-16 17:06:03,756 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2024-07-16 17:06:03,759 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2024-07-16 17:06:04,613 WARN Exception while processing client beat time out.
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'serverMemberManager' defined in URL [jar:file:/Users/lilibozhi/Projects/ActualCombatProjects/api-backend-master/nacos-server/target/nacos-server.jar!/BOOT-INF/lib/nacos-core-1.4.2.jar!/com/alibaba/nacos/core/cluster/ServerMemberManager.class]: Unexpected exception during bean creation; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'javax.servlet.ServletContext' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:527)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:319)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:277)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1196)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:857)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolvePreparedArguments(ConstructorResolver.java:804)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:143)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1338)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1174)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:554)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:514)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:319)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:224)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveNamedBean(DefaultListableBeanFactory.java:1144)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveBean(DefaultListableBeanFactory.java:419)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBean(DefaultListableBeanFactory.java:348)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBean(DefaultListableBeanFactory.java:341)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1124)
+	at com.alibaba.nacos.sys.utils.ApplicationUtils.getBean(ApplicationUtils.java:140)
+	at com.alibaba.nacos.naming.healthcheck.ClientBeatCheckTask.getDistroMapper(ClientBeatCheckTask.java:61)
+	at com.alibaba.nacos.naming.healthcheck.ClientBeatCheckTask.run(ClientBeatCheckTask.java:79)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'javax.servlet.ServletContext' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1685)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1242)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1196)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:857)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolvePreparedArguments(ConstructorResolver.java:804)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:143)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1338)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1174)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:554)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:514)
+	... 33 common frames omitted
+2024-07-16 17:06:06,874 ERROR [HEALTH-CHECK] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2019)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2093)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.TcpSuperSenseProcessor.processTask(TcpSuperSenseProcessor.java:137)
+	at com.alibaba.nacos.naming.healthcheck.TcpSuperSenseProcessor.run(TcpSuperSenseProcessor.java:154)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)

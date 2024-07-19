@@ -1,0 +1,744 @@
+2024-07-19 00:31:23,863 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: is changed, add it to push queue.
+
+2024-07-19 00:31:23,865 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: changed, schedule push for: 192.168.3.28:51041, agent: Nacos-Java-Client:v1.4.2, key: 192.168.3.28,51041,385895258127208
+
+2024-07-19 00:31:23,866 INFO send udp packet: 192.168.3.28,51041,385895258127208
+
+2024-07-19 00:31:23,874 INFO received ack: {"type": "push-ack", "lastRefTime":"385895258127208", "data":""} from: 192.168.3.28:51041, cost: 9 ms, unacked: 0, total push: 189
+
+2024-07-19 00:31:23,932 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 00:31:23,932 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: changed, schedule push for: 192.168.3.28:51041, agent: Nacos-Java-Client:v1.4.2, key: 192.168.3.28,51041,385895325183708
+
+2024-07-19 00:31:23,933 INFO send udp packet: 192.168.3.28,51041,385895325183708
+
+2024-07-19 00:31:23,937 INFO received ack: {"type": "push-ack", "lastRefTime":"385895325183708", "data":""} from: 192.168.3.28:51041, cost: 4 ms, unacked: 0, total push: 190
+
+2024-07-19 00:31:23,945 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 00:31:23,963 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: changed, schedule push for: 192.168.3.28:51041, agent: Nacos-Java-Client:v1.4.2, key: 192.168.3.28,51041,385895356014083
+
+2024-07-19 00:31:23,963 INFO send udp packet: 192.168.3.28,51041,385895356014083
+
+2024-07-19 00:31:23,963 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: is changed, add it to push queue.
+
+2024-07-19 00:31:23,963 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: changed, schedule push for: 192.168.3.28:51041, agent: Nacos-Java-Client:v1.4.2, key: 192.168.3.28,51041,385895356397458
+
+2024-07-19 00:31:23,963 INFO send udp packet: 192.168.3.28,51041,385895356397458
+
+2024-07-19 00:31:23,964 INFO received ack: {"type": "push-ack", "lastRefTime":"385895356014083", "data":""} from: 192.168.3.28:51041, cost: 1 ms, unacked: 1, total push: 192
+
+2024-07-19 00:31:23,965 INFO received ack: {"type": "push-ack", "lastRefTime":"385895356397458", "data":""} from: 192.168.3.28:51041, cost: 2 ms, unacked: 0, total push: 192
+
+2024-07-19 01:01:24,739 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 01:01:24,741 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: changed, schedule push for: 192.168.3.28:51041, agent: Nacos-Java-Client:v1.4.2, key: 192.168.3.28,51041,387696106242583
+
+2024-07-19 01:01:24,741 INFO send udp packet: 192.168.3.28,51041,387696106242583
+
+2024-07-19 01:01:24,742 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: changed, schedule push for: 127.0.0.1:49284, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,49284,387696106242583
+
+2024-07-19 01:01:24,742 INFO send udp packet: 127.0.0.1,49284,387696106242583
+
+2024-07-19 01:01:24,742 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: is changed, add it to push queue.
+
+2024-07-19 01:01:24,742 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: changed, schedule push for: 192.168.3.28:51041, agent: Nacos-Java-Client:v1.4.2, key: 192.168.3.28,51041,387696107158375
+
+2024-07-19 01:01:24,742 INFO send udp packet: 192.168.3.28,51041,387696107158375
+
+2024-07-19 01:01:24,742 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: changed, schedule push for: 127.0.0.1:49284, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,49284,387696107158375
+
+2024-07-19 01:01:24,742 INFO send udp packet: 127.0.0.1,49284,387696107158375
+
+2024-07-19 01:01:24,742 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: is changed, add it to push queue.
+
+2024-07-19 01:01:24,742 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: changed, schedule push for: 192.168.3.28:51041, agent: Nacos-Java-Client:v1.4.2, key: 192.168.3.28,51041,387696107713500
+
+2024-07-19 01:01:24,742 INFO send udp packet: 192.168.3.28,51041,387696107713500
+
+2024-07-19 01:01:24,742 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: changed, schedule push for: 127.0.0.1:49284, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,49284,387696107713500
+
+2024-07-19 01:01:24,742 INFO send udp packet: 127.0.0.1,49284,387696107713500
+
+2024-07-19 01:01:24,742 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 01:01:24,742 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: changed, schedule push for: 192.168.3.28:51041, agent: Nacos-Java-Client:v1.4.2, key: 192.168.3.28,51041,387696107940375
+
+2024-07-19 01:01:24,742 INFO send udp packet: 192.168.3.28,51041,387696107940375
+
+2024-07-19 01:01:24,743 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: changed, schedule push for: 127.0.0.1:49284, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,49284,387696107940375
+
+2024-07-19 01:01:24,743 INFO send udp packet: 127.0.0.1,49284,387696107940375
+
+2024-07-19 01:01:24,746 INFO received ack: {"type": "push-ack", "lastRefTime":"387696106242583", "data":""} from: 192.168.3.28:51041, cost: 5 ms, unacked: 7, total push: 200
+
+2024-07-19 01:01:24,746 INFO received ack: {"type": "push-ack", "lastRefTime":"387696106242583", "data":""} from: 127.0.0.1:49284, cost: 4 ms, unacked: 6, total push: 200
+
+2024-07-19 01:01:24,747 INFO received ack: {"type": "push-ack", "lastRefTime":"387696107158375", "data":""} from: 192.168.3.28:51041, cost: 5 ms, unacked: 5, total push: 200
+
+2024-07-19 01:01:24,747 INFO received ack: {"type": "push-ack", "lastRefTime":"387696107158375", "data":""} from: 127.0.0.1:49284, cost: 5 ms, unacked: 4, total push: 200
+
+2024-07-19 01:01:24,747 INFO received ack: {"type": "push-ack", "lastRefTime":"387696107713500", "data":""} from: 192.168.3.28:51041, cost: 5 ms, unacked: 3, total push: 200
+
+2024-07-19 01:01:24,747 INFO received ack: {"type": "push-ack", "lastRefTime":"387696107713500", "data":""} from: 127.0.0.1:49284, cost: 5 ms, unacked: 2, total push: 200
+
+2024-07-19 01:01:24,748 INFO received ack: {"type": "push-ack", "lastRefTime":"387696107940375", "data":""} from: 192.168.3.28:51041, cost: 6 ms, unacked: 1, total push: 200
+
+2024-07-19 01:01:24,749 INFO received ack: {"type": "push-ack", "lastRefTime":"387696107940375", "data":""} from: 127.0.0.1:49284, cost: 6 ms, unacked: 0, total push: 200
+
+2024-07-19 01:01:38,983 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService:: is changed, add it to push queue.
+
+2024-07-19 01:01:38,983 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 01:01:38,983 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 01:01:38,983 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserService:: is changed, add it to push queue.
+
+2024-07-19 18:27:51,709 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: is changed, add it to push queue.
+
+2024-07-19 18:27:51,722 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: changed, schedule push for: 127.0.0.1:59683, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,59683,415066526721333
+
+2024-07-19 18:27:51,722 INFO send udp packet: 127.0.0.1,59683,415066526721333
+
+2024-07-19 18:27:51,728 INFO received ack: {"type": "push-ack", "lastRefTime":"415066526721333", "data":""} from: 127.0.0.1:59683, cost: 6 ms, unacked: 0, total push: 1
+
+2024-07-19 18:27:52,927 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 18:27:52,928 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: changed, schedule push for: 127.0.0.1:59683, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,59683,415067739476666
+
+2024-07-19 18:27:52,928 INFO send udp packet: 127.0.0.1,59683,415067739476666
+
+2024-07-19 18:27:52,929 INFO received ack: {"type": "push-ack", "lastRefTime":"415067739476666", "data":""} from: 127.0.0.1:59683, cost: 1 ms, unacked: 0, total push: 2
+
+2024-07-19 18:27:53,532 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 18:27:53,533 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: changed, schedule push for: 127.0.0.1:59683, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,59683,415068344291291
+
+2024-07-19 18:27:53,538 INFO send udp packet: 127.0.0.1,59683,415068344291291
+
+2024-07-19 18:27:53,538 INFO received ack: {"type": "push-ack", "lastRefTime":"415068344291291", "data":""} from: 127.0.0.1:59683, cost: 0 ms, unacked: 0, total push: 3
+
+2024-07-19 18:27:54,230 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: is changed, add it to push queue.
+
+2024-07-19 18:27:54,231 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: changed, schedule push for: 127.0.0.1:59683, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,59683,415069042366125
+
+2024-07-19 18:27:54,231 INFO send udp packet: 127.0.0.1,59683,415069042366125
+
+2024-07-19 18:27:54,232 INFO received ack: {"type": "push-ack", "lastRefTime":"415069042366125", "data":""} from: 127.0.0.1:59683, cost: 1 ms, unacked: 0, total push: 4
+
+2024-07-19 18:27:59,131 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 18:27:59,132 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: changed, schedule push for: 127.0.0.1:59683, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,59683,415073943475916
+
+2024-07-19 18:27:59,132 INFO send udp packet: 127.0.0.1,59683,415073943475916
+
+2024-07-19 18:27:59,132 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: is changed, add it to push queue.
+
+2024-07-19 18:27:59,132 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: changed, schedule push for: 127.0.0.1:59683, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,59683,415073943843083
+
+2024-07-19 18:27:59,132 INFO send udp packet: 127.0.0.1,59683,415073943843083
+
+2024-07-19 18:27:59,132 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: is changed, add it to push queue.
+
+2024-07-19 18:27:59,132 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: changed, schedule push for: 127.0.0.1:59683, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,59683,415073944091125
+
+2024-07-19 18:27:59,132 INFO send udp packet: 127.0.0.1,59683,415073944091125
+
+2024-07-19 18:27:59,133 INFO received ack: {"type": "push-ack", "lastRefTime":"415073943475916", "data":""} from: 127.0.0.1:59683, cost: 1 ms, unacked: 2, total push: 7
+
+2024-07-19 18:27:59,133 INFO received ack: {"type": "push-ack", "lastRefTime":"415073943843083", "data":""} from: 127.0.0.1:59683, cost: 1 ms, unacked: 1, total push: 7
+
+2024-07-19 18:27:59,134 INFO received ack: {"type": "push-ack", "lastRefTime":"415073944091125", "data":""} from: 127.0.0.1:59683, cost: 2 ms, unacked: 0, total push: 7
+
+2024-07-19 18:27:59,134 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 18:27:59,135 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: changed, schedule push for: 127.0.0.1:59683, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,59683,415073946657000
+
+2024-07-19 18:27:59,135 INFO send udp packet: 127.0.0.1,59683,415073946657000
+
+2024-07-19 18:27:59,135 INFO received ack: {"type": "push-ack", "lastRefTime":"415073946657000", "data":""} from: 127.0.0.1:59683, cost: 0 ms, unacked: 0, total push: 8
+
+2024-07-19 18:28:10,079 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: is changed, add it to push queue.
+
+2024-07-19 18:28:10,080 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: changed, schedule push for: 127.0.0.1:57887, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,57887,415084891399041
+
+2024-07-19 18:28:10,080 INFO send udp packet: 127.0.0.1,57887,415084891399041
+
+2024-07-19 18:28:10,086 INFO received ack: {"type": "push-ack", "lastRefTime":"415084891399041", "data":""} from: 127.0.0.1:57887, cost: 6 ms, unacked: 0, total push: 9
+
+2024-07-19 18:28:10,163 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 18:28:10,164 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: changed, schedule push for: 127.0.0.1:57887, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,57887,415084975601875
+
+2024-07-19 18:28:10,164 INFO send udp packet: 127.0.0.1,57887,415084975601875
+
+2024-07-19 18:28:10,165 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: changed, schedule push for: 127.0.0.1:59683, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,59683,415084975601875
+
+2024-07-19 18:28:10,166 INFO send udp packet: 127.0.0.1,59683,415084975601875
+
+2024-07-19 18:28:10,167 INFO received ack: {"type": "push-ack", "lastRefTime":"415084975601875", "data":""} from: 127.0.0.1:57887, cost: 3 ms, unacked: 1, total push: 11
+
+2024-07-19 18:28:10,179 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 18:28:10,180 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: changed, schedule push for: 127.0.0.1:59683, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,59683,415084991758541
+
+2024-07-19 18:28:10,180 INFO send udp packet: 127.0.0.1,59683,415084991758541
+
+2024-07-19 18:28:10,181 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: changed, schedule push for: 127.0.0.1:57887, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,57887,415084991758541
+
+2024-07-19 18:28:10,181 INFO send udp packet: 127.0.0.1,57887,415084991758541
+
+2024-07-19 18:28:10,184 INFO received ack: {"type": "push-ack", "lastRefTime":"415084991758541", "data":""} from: 127.0.0.1:57887, cost: 3 ms, unacked: 2, total push: 13
+
+2024-07-19 18:28:10,197 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: is changed, add it to push queue.
+
+2024-07-19 18:28:10,198 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: changed, schedule push for: 127.0.0.1:57887, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,57887,415085009689083
+
+2024-07-19 18:28:10,198 INFO send udp packet: 127.0.0.1,57887,415085009689083
+
+2024-07-19 18:28:10,199 INFO received ack: {"type": "push-ack", "lastRefTime":"415085009689083", "data":""} from: 127.0.0.1:57887, cost: 1 ms, unacked: 2, total push: 14
+
+2024-07-19 18:28:20,166 INFO retry to push data, key: 127.0.0.1,59683,415084975601875
+
+2024-07-19 18:28:20,166 INFO send udp packet: 127.0.0.1,59683,415084975601875
+
+2024-07-19 18:28:20,183 INFO retry to push data, key: 127.0.0.1,59683,415084991758541
+
+2024-07-19 18:28:20,183 INFO send udp packet: 127.0.0.1,59683,415084991758541
+
+2024-07-19 18:28:30,168 INFO retry to push data, key: 127.0.0.1,59683,415084975601875
+
+2024-07-19 18:28:30,168 WARN max re-push times reached, retry times 2, key: 127.0.0.1,59683,415084975601875
+
+2024-07-19 18:28:30,187 INFO retry to push data, key: 127.0.0.1,59683,415084991758541
+
+2024-07-19 18:28:30,187 WARN max re-push times reached, retry times 2, key: 127.0.0.1,59683,415084991758541
+
+2024-07-19 18:28:42,563 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService:: is changed, add it to push queue.
+
+2024-07-19 18:28:42,698 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserService:: is changed, add it to push queue.
+
+2024-07-19 18:28:42,858 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 18:28:43,054 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 18:32:18,027 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 18:32:18,030 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserService:: is changed, add it to push queue.
+
+2024-07-19 18:32:18,030 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 18:32:18,030 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService:: is changed, add it to push queue.
+
+2024-07-19 18:33:32,808 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 18:33:32,809 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: changed, schedule push for: 127.0.0.1:57887, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,57887,415407611447916
+
+2024-07-19 18:33:32,809 INFO send udp packet: 127.0.0.1,57887,415407611447916
+
+2024-07-19 18:33:32,810 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: is changed, add it to push queue.
+
+2024-07-19 18:33:32,810 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: changed, schedule push for: 127.0.0.1:57887, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,57887,415407612182666
+
+2024-07-19 18:33:32,810 INFO send udp packet: 127.0.0.1,57887,415407612182666
+
+2024-07-19 18:33:32,810 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: is changed, add it to push queue.
+
+2024-07-19 18:33:32,810 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: changed, schedule push for: 127.0.0.1:57887, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,57887,415407612396875
+
+2024-07-19 18:33:32,810 INFO send udp packet: 127.0.0.1,57887,415407612396875
+
+2024-07-19 18:33:32,810 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 18:33:32,810 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: changed, schedule push for: 127.0.0.1:57887, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,57887,415407612652333
+
+2024-07-19 18:33:32,810 INFO send udp packet: 127.0.0.1,57887,415407612652333
+
+2024-07-19 18:33:32,814 INFO received ack: {"type": "push-ack", "lastRefTime":"415407611447916", "data":""} from: 127.0.0.1:57887, cost: 5 ms, unacked: 3, total push: 18
+
+2024-07-19 18:33:32,815 INFO received ack: {"type": "push-ack", "lastRefTime":"415407612182666", "data":""} from: 127.0.0.1:57887, cost: 5 ms, unacked: 2, total push: 18
+
+2024-07-19 18:33:32,816 INFO received ack: {"type": "push-ack", "lastRefTime":"415407612396875", "data":""} from: 127.0.0.1:57887, cost: 6 ms, unacked: 1, total push: 18
+
+2024-07-19 18:33:32,818 INFO received ack: {"type": "push-ack", "lastRefTime":"415407612652333", "data":""} from: 127.0.0.1:57887, cost: 8 ms, unacked: 0, total push: 18
+
+2024-07-19 20:24:05,909 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: is changed, add it to push queue.
+
+2024-07-19 20:24:05,919 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: changed, schedule push for: 127.0.0.1:51871, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,51871,422040658993916
+
+2024-07-19 20:24:05,919 INFO send udp packet: 127.0.0.1,51871,422040658993916
+
+2024-07-19 20:24:05,928 INFO received ack: {"type": "push-ack", "lastRefTime":"422040658993916", "data":""} from: 127.0.0.1:51871, cost: 9 ms, unacked: 0, total push: 1
+
+2024-07-19 20:24:05,994 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 20:24:05,994 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: changed, schedule push for: 127.0.0.1:51871, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,51871,422040738397625
+
+2024-07-19 20:24:05,994 INFO send udp packet: 127.0.0.1,51871,422040738397625
+
+2024-07-19 20:24:05,995 INFO received ack: {"type": "push-ack", "lastRefTime":"422040738397625", "data":""} from: 127.0.0.1:51871, cost: 1 ms, unacked: 0, total push: 2
+
+2024-07-19 20:24:06,016 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 20:24:06,017 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: changed, schedule push for: 127.0.0.1:51871, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,51871,422040760817750
+
+2024-07-19 20:24:06,017 INFO send udp packet: 127.0.0.1,51871,422040760817750
+
+2024-07-19 20:24:06,018 INFO received ack: {"type": "push-ack", "lastRefTime":"422040760817750", "data":""} from: 127.0.0.1:51871, cost: 1 ms, unacked: 0, total push: 3
+
+2024-07-19 20:24:06,036 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: is changed, add it to push queue.
+
+2024-07-19 20:24:06,037 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: changed, schedule push for: 127.0.0.1:51871, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,51871,422040781067708
+
+2024-07-19 20:24:06,037 INFO send udp packet: 127.0.0.1,51871,422040781067708
+
+2024-07-19 20:24:06,038 INFO received ack: {"type": "push-ack", "lastRefTime":"422040781067708", "data":""} from: 127.0.0.1:51871, cost: 1 ms, unacked: 0, total push: 4
+
+2024-07-19 20:24:47,609 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 20:24:47,610 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: changed, schedule push for: 127.0.0.1:51871, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,51871,422082354027375
+
+2024-07-19 20:24:47,610 INFO send udp packet: 127.0.0.1,51871,422082354027375
+
+2024-07-19 20:24:47,610 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: is changed, add it to push queue.
+
+2024-07-19 20:24:47,610 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: changed, schedule push for: 127.0.0.1:51871, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,51871,422082354460416
+
+2024-07-19 20:24:47,610 INFO send udp packet: 127.0.0.1,51871,422082354460416
+
+2024-07-19 20:24:47,610 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: is changed, add it to push queue.
+
+2024-07-19 20:24:47,610 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: changed, schedule push for: 127.0.0.1:51871, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,51871,422082354718458
+
+2024-07-19 20:24:47,610 INFO send udp packet: 127.0.0.1,51871,422082354718458
+
+2024-07-19 20:24:47,610 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 20:24:47,611 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: changed, schedule push for: 127.0.0.1:51871, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,51871,422082355157291
+
+2024-07-19 20:24:47,611 INFO send udp packet: 127.0.0.1,51871,422082355157291
+
+2024-07-19 20:24:47,612 INFO received ack: {"type": "push-ack", "lastRefTime":"422082354027375", "data":""} from: 127.0.0.1:51871, cost: 2 ms, unacked: 3, total push: 8
+
+2024-07-19 20:24:47,612 INFO received ack: {"type": "push-ack", "lastRefTime":"422082354460416", "data":""} from: 127.0.0.1:51871, cost: 2 ms, unacked: 2, total push: 8
+
+2024-07-19 20:24:47,613 INFO received ack: {"type": "push-ack", "lastRefTime":"422082354718458", "data":""} from: 127.0.0.1:51871, cost: 3 ms, unacked: 1, total push: 8
+
+2024-07-19 20:24:47,613 INFO received ack: {"type": "push-ack", "lastRefTime":"422082355157291", "data":""} from: 127.0.0.1:51871, cost: 2 ms, unacked: 0, total push: 8
+
+2024-07-19 21:20:02,630 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: is changed, add it to push queue.
+
+2024-07-19 21:20:02,644 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: changed, schedule push for: 127.0.0.1:49641, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,49641,425397331582166
+
+2024-07-19 21:20:02,645 INFO send udp packet: 127.0.0.1,49641,425397331582166
+
+2024-07-19 21:20:02,652 INFO received ack: {"type": "push-ack", "lastRefTime":"425397331582166", "data":""} from: 127.0.0.1:49641, cost: 7 ms, unacked: 0, total push: 1
+
+2024-07-19 21:20:02,730 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 21:20:02,731 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: changed, schedule push for: 127.0.0.1:49641, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,49641,425397421656666
+
+2024-07-19 21:20:02,731 INFO send udp packet: 127.0.0.1,49641,425397421656666
+
+2024-07-19 21:20:02,732 INFO received ack: {"type": "push-ack", "lastRefTime":"425397421656666", "data":""} from: 127.0.0.1:49641, cost: 1 ms, unacked: 0, total push: 2
+
+2024-07-19 21:20:02,747 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 21:20:02,748 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: changed, schedule push for: 127.0.0.1:49641, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,49641,425397438253708
+
+2024-07-19 21:20:02,748 INFO send udp packet: 127.0.0.1,49641,425397438253708
+
+2024-07-19 21:20:02,749 INFO received ack: {"type": "push-ack", "lastRefTime":"425397438253708", "data":""} from: 127.0.0.1:49641, cost: 1 ms, unacked: 0, total push: 3
+
+2024-07-19 21:20:02,764 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: is changed, add it to push queue.
+
+2024-07-19 21:20:02,765 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: changed, schedule push for: 127.0.0.1:49641, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,49641,425397455640916
+
+2024-07-19 21:20:02,765 INFO send udp packet: 127.0.0.1,49641,425397455640916
+
+2024-07-19 21:20:02,766 INFO received ack: {"type": "push-ack", "lastRefTime":"425397455640916", "data":""} from: 127.0.0.1:49641, cost: 1 ms, unacked: 0, total push: 4
+
+2024-07-19 21:25:01,211 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 21:25:01,212 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: changed, schedule push for: 127.0.0.1:49641, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,49641,425695900848458
+
+2024-07-19 21:25:01,212 INFO send udp packet: 127.0.0.1,49641,425695900848458
+
+2024-07-19 21:25:01,213 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: is changed, add it to push queue.
+
+2024-07-19 21:25:01,213 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: changed, schedule push for: 127.0.0.1:49641, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,49641,425695901623958
+
+2024-07-19 21:25:01,213 INFO send udp packet: 127.0.0.1,49641,425695901623958
+
+2024-07-19 21:25:01,214 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: is changed, add it to push queue.
+
+2024-07-19 21:25:01,214 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: changed, schedule push for: 127.0.0.1:49641, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,49641,425695902949083
+
+2024-07-19 21:25:01,214 INFO send udp packet: 127.0.0.1,49641,425695902949083
+
+2024-07-19 21:25:01,215 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 21:25:01,215 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: changed, schedule push for: 127.0.0.1:49641, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,49641,425695903816291
+
+2024-07-19 21:25:01,215 INFO send udp packet: 127.0.0.1,49641,425695903816291
+
+2024-07-19 21:25:01,216 INFO received ack: {"type": "push-ack", "lastRefTime":"425695900848458", "data":""} from: 127.0.0.1:49641, cost: 4 ms, unacked: 3, total push: 8
+
+2024-07-19 21:25:01,216 INFO received ack: {"type": "push-ack", "lastRefTime":"425695901623958", "data":""} from: 127.0.0.1:49641, cost: 3 ms, unacked: 2, total push: 8
+
+2024-07-19 21:25:01,217 INFO received ack: {"type": "push-ack", "lastRefTime":"425695902949083", "data":""} from: 127.0.0.1:49641, cost: 3 ms, unacked: 1, total push: 8
+
+2024-07-19 21:25:01,218 INFO received ack: {"type": "push-ack", "lastRefTime":"425695903816291", "data":""} from: 127.0.0.1:49641, cost: 3 ms, unacked: 0, total push: 8
+
+2024-07-19 21:25:11,950 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: is changed, add it to push queue.
+
+2024-07-19 21:25:11,952 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: changed, schedule push for: 127.0.0.1:54351, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,54351,425706639676125
+
+2024-07-19 21:25:11,952 INFO send udp packet: 127.0.0.1,54351,425706639676125
+
+2024-07-19 21:25:11,952 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: changed, schedule push for: 127.0.0.1:49641, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,49641,425706639676125
+
+2024-07-19 21:25:11,952 INFO send udp packet: 127.0.0.1,49641,425706639676125
+
+2024-07-19 21:25:11,955 INFO received ack: {"type": "push-ack", "lastRefTime":"425706639676125", "data":""} from: 127.0.0.1:54351, cost: 3 ms, unacked: 1, total push: 10
+
+2024-07-19 21:25:12,018 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 21:25:12,018 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: changed, schedule push for: 127.0.0.1:49641, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,49641,425706706968916
+
+2024-07-19 21:25:12,018 INFO send udp packet: 127.0.0.1,49641,425706706968916
+
+2024-07-19 21:25:12,019 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: changed, schedule push for: 127.0.0.1:54351, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,54351,425706706968916
+
+2024-07-19 21:25:12,019 INFO send udp packet: 127.0.0.1,54351,425706706968916
+
+2024-07-19 21:25:12,019 INFO received ack: {"type": "push-ack", "lastRefTime":"425706706968916", "data":""} from: 127.0.0.1:54351, cost: 0 ms, unacked: 2, total push: 12
+
+2024-07-19 21:25:12,030 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 21:25:12,030 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: changed, schedule push for: 127.0.0.1:49641, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,49641,425706718478875
+
+2024-07-19 21:25:12,030 INFO send udp packet: 127.0.0.1,49641,425706718478875
+
+2024-07-19 21:25:12,031 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: changed, schedule push for: 127.0.0.1:54351, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,54351,425706718478875
+
+2024-07-19 21:25:12,031 INFO send udp packet: 127.0.0.1,54351,425706718478875
+
+2024-07-19 21:25:12,032 INFO received ack: {"type": "push-ack", "lastRefTime":"425706718478875", "data":""} from: 127.0.0.1:54351, cost: 1 ms, unacked: 3, total push: 14
+
+2024-07-19 21:25:12,043 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: is changed, add it to push queue.
+
+2024-07-19 21:25:12,043 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: changed, schedule push for: 127.0.0.1:49641, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,49641,425706731456666
+
+2024-07-19 21:25:12,043 INFO send udp packet: 127.0.0.1,49641,425706731456666
+
+2024-07-19 21:25:12,043 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: changed, schedule push for: 127.0.0.1:54351, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,54351,425706731456666
+
+2024-07-19 21:25:12,043 INFO send udp packet: 127.0.0.1,54351,425706731456666
+
+2024-07-19 21:25:12,044 INFO received ack: {"type": "push-ack", "lastRefTime":"425706731456666", "data":""} from: 127.0.0.1:54351, cost: 1 ms, unacked: 4, total push: 16
+
+2024-07-19 21:25:20,729 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 21:25:20,730 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: changed, schedule push for: 127.0.0.1:54351, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,54351,425715418091583
+
+2024-07-19 21:25:20,730 INFO send udp packet: 127.0.0.1,54351,425715418091583
+
+2024-07-19 21:25:20,730 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: is changed, add it to push queue.
+
+2024-07-19 21:25:20,730 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: changed, schedule push for: 127.0.0.1:54351, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,54351,425715418666208
+
+2024-07-19 21:25:20,730 INFO send udp packet: 127.0.0.1,54351,425715418666208
+
+2024-07-19 21:25:20,731 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: is changed, add it to push queue.
+
+2024-07-19 21:25:20,731 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: changed, schedule push for: 127.0.0.1:54351, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,54351,425715419954000
+
+2024-07-19 21:25:20,731 INFO send udp packet: 127.0.0.1,54351,425715419954000
+
+2024-07-19 21:25:20,732 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 21:25:20,733 INFO received ack: {"type": "push-ack", "lastRefTime":"425715418091583", "data":""} from: 127.0.0.1:54351, cost: 3 ms, unacked: 6, total push: 19
+
+2024-07-19 21:25:20,733 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: changed, schedule push for: 127.0.0.1:54351, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,54351,425715421305083
+
+2024-07-19 21:25:20,733 INFO send udp packet: 127.0.0.1,54351,425715421305083
+
+2024-07-19 21:25:20,733 INFO received ack: {"type": "push-ack", "lastRefTime":"425715418666208", "data":""} from: 127.0.0.1:54351, cost: 3 ms, unacked: 6, total push: 20
+
+2024-07-19 21:25:20,734 INFO received ack: {"type": "push-ack", "lastRefTime":"425715419954000", "data":""} from: 127.0.0.1:54351, cost: 3 ms, unacked: 5, total push: 20
+
+2024-07-19 21:25:20,735 INFO received ack: {"type": "push-ack", "lastRefTime":"425715421305083", "data":""} from: 127.0.0.1:54351, cost: 2 ms, unacked: 4, total push: 20
+
+2024-07-19 21:25:21,955 INFO retry to push data, key: 127.0.0.1,49641,425706639676125
+
+2024-07-19 21:25:21,955 INFO send udp packet: 127.0.0.1,49641,425706639676125
+
+2024-07-19 21:25:22,020 INFO retry to push data, key: 127.0.0.1,49641,425706706968916
+
+2024-07-19 21:25:22,020 INFO send udp packet: 127.0.0.1,49641,425706706968916
+
+2024-07-19 21:25:22,033 INFO retry to push data, key: 127.0.0.1,49641,425706718478875
+
+2024-07-19 21:25:22,033 INFO send udp packet: 127.0.0.1,49641,425706718478875
+
+2024-07-19 21:25:22,043 INFO retry to push data, key: 127.0.0.1,49641,425706731456666
+
+2024-07-19 21:25:22,043 INFO send udp packet: 127.0.0.1,49641,425706731456666
+
+2024-07-19 21:25:30,047 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: is changed, add it to push queue.
+
+2024-07-19 21:25:30,048 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: changed, schedule push for: 127.0.0.1:54351, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,54351,425724736396333
+
+2024-07-19 21:25:30,049 INFO send udp packet: 127.0.0.1,54351,425724736396333
+
+2024-07-19 21:25:30,051 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: changed, schedule push for: 127.0.0.1:53828, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,53828,425724736396333
+
+2024-07-19 21:25:30,051 INFO send udp packet: 127.0.0.1,53828,425724736396333
+
+2024-07-19 21:25:30,055 INFO received ack: {"type": "push-ack", "lastRefTime":"425724736396333", "data":""} from: 127.0.0.1:53828, cost: 4 ms, unacked: 5, total push: 22
+
+2024-07-19 21:25:30,107 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 21:25:30,108 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: changed, schedule push for: 127.0.0.1:53828, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,53828,425724796124625
+
+2024-07-19 21:25:30,108 INFO send udp packet: 127.0.0.1,53828,425724796124625
+
+2024-07-19 21:25:30,110 INFO received ack: {"type": "push-ack", "lastRefTime":"425724796124625", "data":""} from: 127.0.0.1:53828, cost: 2 ms, unacked: 5, total push: 23
+
+2024-07-19 21:25:30,111 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: changed, schedule push for: 127.0.0.1:54351, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,54351,425724796124625
+
+2024-07-19 21:25:30,111 INFO send udp packet: 127.0.0.1,54351,425724796124625
+
+2024-07-19 21:25:30,121 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 21:25:30,121 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: changed, schedule push for: 127.0.0.1:53828, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,53828,425724809408250
+
+2024-07-19 21:25:30,121 INFO send udp packet: 127.0.0.1,53828,425724809408250
+
+2024-07-19 21:25:30,122 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: changed, schedule push for: 127.0.0.1:54351, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,54351,425724809408250
+
+2024-07-19 21:25:30,122 INFO send udp packet: 127.0.0.1,54351,425724809408250
+
+2024-07-19 21:25:30,123 INFO received ack: {"type": "push-ack", "lastRefTime":"425724809408250", "data":""} from: 127.0.0.1:53828, cost: 2 ms, unacked: 7, total push: 26
+
+2024-07-19 21:25:30,136 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: is changed, add it to push queue.
+
+2024-07-19 21:25:30,136 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: changed, schedule push for: 127.0.0.1:53828, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,53828,425724824672000
+
+2024-07-19 21:25:30,136 INFO send udp packet: 127.0.0.1,53828,425724824672000
+
+2024-07-19 21:25:30,136 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: changed, schedule push for: 127.0.0.1:54351, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,54351,425724824672000
+
+2024-07-19 21:25:30,136 INFO send udp packet: 127.0.0.1,54351,425724824672000
+
+2024-07-19 21:25:30,138 INFO received ack: {"type": "push-ack", "lastRefTime":"425724824672000", "data":""} from: 127.0.0.1:53828, cost: 2 ms, unacked: 8, total push: 28
+
+2024-07-19 21:25:31,960 INFO retry to push data, key: 127.0.0.1,49641,425706639676125
+
+2024-07-19 21:25:31,961 WARN max re-push times reached, retry times 2, key: 127.0.0.1,49641,425706639676125
+
+2024-07-19 21:25:32,025 INFO retry to push data, key: 127.0.0.1,49641,425706706968916
+
+2024-07-19 21:25:32,025 WARN max re-push times reached, retry times 2, key: 127.0.0.1,49641,425706706968916
+
+2024-07-19 21:25:32,035 INFO retry to push data, key: 127.0.0.1,49641,425706718478875
+
+2024-07-19 21:25:32,035 WARN max re-push times reached, retry times 2, key: 127.0.0.1,49641,425706718478875
+
+2024-07-19 21:25:32,046 INFO retry to push data, key: 127.0.0.1,49641,425706731456666
+
+2024-07-19 21:25:32,046 WARN max re-push times reached, retry times 2, key: 127.0.0.1,49641,425706731456666
+
+2024-07-19 21:25:40,055 INFO retry to push data, key: 127.0.0.1,54351,425724736396333
+
+2024-07-19 21:25:40,055 INFO send udp packet: 127.0.0.1,54351,425724736396333
+
+2024-07-19 21:25:40,113 INFO retry to push data, key: 127.0.0.1,54351,425724796124625
+
+2024-07-19 21:25:40,113 INFO send udp packet: 127.0.0.1,54351,425724796124625
+
+2024-07-19 21:25:40,123 INFO retry to push data, key: 127.0.0.1,54351,425724809408250
+
+2024-07-19 21:25:40,123 INFO send udp packet: 127.0.0.1,54351,425724809408250
+
+2024-07-19 21:25:40,137 INFO retry to push data, key: 127.0.0.1,54351,425724824672000
+
+2024-07-19 21:25:40,137 INFO send udp packet: 127.0.0.1,54351,425724824672000
+
+2024-07-19 21:25:50,062 INFO retry to push data, key: 127.0.0.1,54351,425724736396333
+
+2024-07-19 21:25:50,062 WARN max re-push times reached, retry times 2, key: 127.0.0.1,54351,425724736396333
+
+2024-07-19 21:25:50,115 INFO retry to push data, key: 127.0.0.1,54351,425724796124625
+
+2024-07-19 21:25:50,115 WARN max re-push times reached, retry times 2, key: 127.0.0.1,54351,425724796124625
+
+2024-07-19 21:25:50,125 INFO retry to push data, key: 127.0.0.1,54351,425724809408250
+
+2024-07-19 21:25:50,125 WARN max re-push times reached, retry times 2, key: 127.0.0.1,54351,425724809408250
+
+2024-07-19 21:25:50,162 INFO retry to push data, key: 127.0.0.1,54351,425724824672000
+
+2024-07-19 21:25:50,162 WARN max re-push times reached, retry times 2, key: 127.0.0.1,54351,425724824672000
+
+2024-07-19 21:26:10,298 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService:: is changed, add it to push queue.
+
+2024-07-19 21:26:10,456 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserService:: is changed, add it to push queue.
+
+2024-07-19 21:26:10,592 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 21:26:10,795 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 21:27:21,172 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 21:27:21,173 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: changed, schedule push for: 127.0.0.1:53828, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,53828,425835860078750
+
+2024-07-19 21:27:21,173 INFO send udp packet: 127.0.0.1,53828,425835860078750
+
+2024-07-19 21:27:21,173 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: changed, schedule push for: 127.0.0.1:57801, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,57801,425835860078750
+
+2024-07-19 21:27:21,173 INFO send udp packet: 127.0.0.1,57801,425835860078750
+
+2024-07-19 21:27:21,173 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: is changed, add it to push queue.
+
+2024-07-19 21:27:21,173 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: changed, schedule push for: 127.0.0.1:53828, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,53828,425835860640041
+
+2024-07-19 21:27:21,173 INFO send udp packet: 127.0.0.1,53828,425835860640041
+
+2024-07-19 21:27:21,173 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: changed, schedule push for: 127.0.0.1:57801, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,57801,425835860640041
+
+2024-07-19 21:27:21,173 INFO send udp packet: 127.0.0.1,57801,425835860640041
+
+2024-07-19 21:27:21,173 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: is changed, add it to push queue.
+
+2024-07-19 21:27:21,173 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: changed, schedule push for: 127.0.0.1:57801, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,57801,425835860811625
+
+2024-07-19 21:27:21,173 INFO send udp packet: 127.0.0.1,57801,425835860811625
+
+2024-07-19 21:27:21,173 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: changed, schedule push for: 127.0.0.1:53828, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,53828,425835860811625
+
+2024-07-19 21:27:21,173 INFO send udp packet: 127.0.0.1,53828,425835860811625
+
+2024-07-19 21:27:21,173 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 21:27:21,173 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: changed, schedule push for: 127.0.0.1:53828, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,53828,425835860934041
+
+2024-07-19 21:27:21,173 INFO send udp packet: 127.0.0.1,53828,425835860934041
+
+2024-07-19 21:27:21,173 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: changed, schedule push for: 127.0.0.1:57801, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,57801,425835860934041
+
+2024-07-19 21:27:21,173 INFO send udp packet: 127.0.0.1,57801,425835860934041
+
+2024-07-19 21:27:21,174 INFO received ack: {"type": "push-ack", "lastRefTime":"425835860078750", "data":""} from: 127.0.0.1:53828, cost: 1 ms, unacked: 7, total push: 36
+
+2024-07-19 21:27:21,174 INFO received ack: {"type": "push-ack", "lastRefTime":"425835860640041", "data":""} from: 127.0.0.1:53828, cost: 1 ms, unacked: 6, total push: 36
+
+2024-07-19 21:27:21,174 INFO received ack: {"type": "push-ack", "lastRefTime":"425835860811625", "data":""} from: 127.0.0.1:53828, cost: 1 ms, unacked: 5, total push: 36
+
+2024-07-19 21:27:21,174 INFO received ack: {"type": "push-ack", "lastRefTime":"425835860934041", "data":""} from: 127.0.0.1:53828, cost: 1 ms, unacked: 4, total push: 36
+
+2024-07-19 21:27:21,175 INFO received ack: {"type": "push-ack", "lastRefTime":"425835860078750", "data":""} from: 127.0.0.1:57801, cost: 2 ms, unacked: 3, total push: 36
+
+2024-07-19 21:27:21,175 INFO received ack: {"type": "push-ack", "lastRefTime":"425835860640041", "data":""} from: 127.0.0.1:57801, cost: 2 ms, unacked: 2, total push: 36
+
+2024-07-19 21:27:21,176 INFO received ack: {"type": "push-ack", "lastRefTime":"425835860811625", "data":""} from: 127.0.0.1:57801, cost: 3 ms, unacked: 1, total push: 36
+
+2024-07-19 21:27:21,176 INFO received ack: {"type": "push-ack", "lastRefTime":"425835860934041", "data":""} from: 127.0.0.1:57801, cost: 3 ms, unacked: 0, total push: 36
+
+2024-07-19 21:28:15,594 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService:: is changed, add it to push queue.
+
+2024-07-19 21:28:15,666 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserService:: is changed, add it to push queue.
+
+2024-07-19 21:28:15,796 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 21:28:16,016 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 21:28:24,696 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: is changed, add it to push queue.
+
+2024-07-19 21:28:24,707 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: changed, schedule push for: 127.0.0.1:59901, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,59901,425899383904208
+
+2024-07-19 21:28:24,707 INFO send udp packet: 127.0.0.1,59901,425899383904208
+
+2024-07-19 21:28:24,709 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: changed, schedule push for: 127.0.0.1:57801, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,57801,425899383904208
+
+2024-07-19 21:28:24,709 INFO send udp packet: 127.0.0.1,57801,425899383904208
+
+2024-07-19 21:28:24,714 INFO received ack: {"type": "push-ack", "lastRefTime":"425899383904208", "data":""} from: 127.0.0.1:57801, cost: 5 ms, unacked: 1, total push: 2
+
+2024-07-19 21:28:24,714 INFO received ack: {"type": "push-ack", "lastRefTime":"425899383904208", "data":""} from: 127.0.0.1:59901, cost: 7 ms, unacked: 0, total push: 2
+
+2024-07-19 21:28:24,772 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 21:28:24,773 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: changed, schedule push for: 127.0.0.1:59901, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,59901,425899459312750
+
+2024-07-19 21:28:24,773 INFO send udp packet: 127.0.0.1,59901,425899459312750
+
+2024-07-19 21:28:24,773 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: changed, schedule push for: 127.0.0.1:57801, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,57801,425899459312750
+
+2024-07-19 21:28:24,773 INFO send udp packet: 127.0.0.1,57801,425899459312750
+
+2024-07-19 21:28:24,774 INFO received ack: {"type": "push-ack", "lastRefTime":"425899459312750", "data":""} from: 127.0.0.1:59901, cost: 1 ms, unacked: 1, total push: 4
+
+2024-07-19 21:28:24,774 INFO received ack: {"type": "push-ack", "lastRefTime":"425899459312750", "data":""} from: 127.0.0.1:57801, cost: 1 ms, unacked: 0, total push: 4
+
+2024-07-19 21:28:24,784 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 21:28:24,784 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: changed, schedule push for: 127.0.0.1:59901, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,59901,425899471117583
+
+2024-07-19 21:28:24,784 INFO send udp packet: 127.0.0.1,59901,425899471117583
+
+2024-07-19 21:28:24,785 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: changed, schedule push for: 127.0.0.1:57801, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,57801,425899471117583
+
+2024-07-19 21:28:24,785 INFO send udp packet: 127.0.0.1,57801,425899471117583
+
+2024-07-19 21:28:24,786 INFO received ack: {"type": "push-ack", "lastRefTime":"425899471117583", "data":""} from: 127.0.0.1:59901, cost: 2 ms, unacked: 1, total push: 6
+
+2024-07-19 21:28:24,787 INFO received ack: {"type": "push-ack", "lastRefTime":"425899471117583", "data":""} from: 127.0.0.1:57801, cost: 2 ms, unacked: 0, total push: 6
+
+2024-07-19 21:28:24,801 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: is changed, add it to push queue.
+
+2024-07-19 21:28:24,802 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: changed, schedule push for: 127.0.0.1:59901, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,59901,425899488630666
+
+2024-07-19 21:28:24,802 INFO send udp packet: 127.0.0.1,59901,425899488630666
+
+2024-07-19 21:28:24,802 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: changed, schedule push for: 127.0.0.1:57801, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,57801,425899488630666
+
+2024-07-19 21:28:24,802 INFO send udp packet: 127.0.0.1,57801,425899488630666
+
+2024-07-19 21:28:24,803 INFO received ack: {"type": "push-ack", "lastRefTime":"425899488630666", "data":""} from: 127.0.0.1:59901, cost: 1 ms, unacked: 1, total push: 8
+
+2024-07-19 21:28:24,803 INFO received ack: {"type": "push-ack", "lastRefTime":"425899488630666", "data":""} from: 127.0.0.1:57801, cost: 1 ms, unacked: 0, total push: 8
+
+2024-07-19 21:28:38,001 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 21:28:38,002 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: changed, schedule push for: 127.0.0.1:59901, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,59901,425912689169041
+
+2024-07-19 21:28:38,003 INFO send udp packet: 127.0.0.1,59901,425912689169041
+
+2024-07-19 21:28:38,003 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: is changed, add it to push queue.
+
+2024-07-19 21:28:38,003 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: changed, schedule push for: 127.0.0.1:59901, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,59901,425912690017958
+
+2024-07-19 21:28:38,003 INFO send udp packet: 127.0.0.1,59901,425912690017958
+
+2024-07-19 21:28:38,003 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: is changed, add it to push queue.
+
+2024-07-19 21:28:38,004 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: changed, schedule push for: 127.0.0.1:59901, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,59901,425912690701208
+
+2024-07-19 21:28:38,004 INFO send udp packet: 127.0.0.1,59901,425912690701208
+
+2024-07-19 21:28:38,006 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: is changed, add it to push queue.
+
+2024-07-19 21:28:38,006 INFO serviceName: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: changed, schedule push for: 127.0.0.1:59901, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,59901,425912692906375
+
+2024-07-19 21:28:38,006 INFO received ack: {"type": "push-ack", "lastRefTime":"425912689169041", "data":""} from: 127.0.0.1:59901, cost: 3 ms, unacked: 2, total push: 11
+
+2024-07-19 21:28:38,006 INFO send udp packet: 127.0.0.1,59901,425912692906375
+
+2024-07-19 21:28:38,006 INFO received ack: {"type": "push-ack", "lastRefTime":"425912690017958", "data":""} from: 127.0.0.1:59901, cost: 3 ms, unacked: 2, total push: 12
+
+2024-07-19 21:28:38,007 INFO received ack: {"type": "push-ack", "lastRefTime":"425912690701208", "data":""} from: 127.0.0.1:59901, cost: 3 ms, unacked: 1, total push: 12
+
+2024-07-19 21:28:38,007 INFO received ack: {"type": "push-ack", "lastRefTime":"425912692906375", "data":""} from: 127.0.0.1:59901, cost: 1 ms, unacked: 0, total push: 12
+

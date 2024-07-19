@@ -1,0 +1,346 @@
+2024-07-19 00:31:22,859 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 00:31:22,859 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 00:31:22,929 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 00:31:22,929 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 00:31:22,943 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 00:31:22,943 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 00:31:22,957 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 00:31:22,957 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 01:01:23,735 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 01:01:23,735 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService::, ips: 
+
+2024-07-19 01:01:23,737 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 01:01:23,737 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService::, ips: 
+
+2024-07-19 01:01:23,738 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 01:01:23,738 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, ips: 
+
+2024-07-19 01:01:23,739 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 01:01:23,739 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService::, ips: 
+
+2024-07-19 01:01:37,980 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 01:01:37,980 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::, ips: 
+
+2024-07-19 01:01:37,981 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 01:01:37,981 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService::, ips: 
+
+2024-07-19 01:01:37,982 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 01:01:37,982 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService::, ips: 
+
+2024-07-19 01:01:37,982 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 01:01:37,982 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserService::, ips: 
+
+2024-07-19 01:02:16,697 ERROR [UPDATE-DOMAIN] Exception while taking item from LinkedBlockingDeque.
+
+2024-07-19 18:27:50,703 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 18:27:50,704 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 18:27:51,922 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 18:27:51,922 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 18:27:52,530 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 18:27:52,531 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 18:27:53,225 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 18:27:53,225 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 18:27:58,127 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 18:27:58,127 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService::, ips: 
+
+2024-07-19 18:27:58,130 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 18:27:58,130 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService::, ips: 
+
+2024-07-19 18:27:58,131 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 18:27:58,131 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, ips: 
+
+2024-07-19 18:27:58,134 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 18:27:58,134 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService::, ips: 
+
+2024-07-19 18:28:09,077 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 18:28:09,077 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 18:28:09,158 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 18:28:09,158 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 18:28:09,179 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 18:28:09,179 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 18:28:09,195 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 18:28:09,195 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 18:28:41,561 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 18:28:41,561 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::, ips: 198.18.0.1:0_true,
+
+2024-07-19 18:28:41,698 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 18:28:41,698 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserService::, ips: 198.18.0.1:0_true,
+
+2024-07-19 18:28:41,853 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 18:28:41,853 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService::, ips: 198.18.0.1:0_true,
+
+2024-07-19 18:28:42,053 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 18:28:42,053 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService::, ips: 198.18.0.1:0_true,
+
+2024-07-19 18:32:17,023 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 18:32:17,023 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService::, ips: 
+
+2024-07-19 18:32:17,024 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 18:32:17,024 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserService::, ips: 
+
+2024-07-19 18:32:17,025 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 18:32:17,025 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService::, ips: 
+
+2024-07-19 18:32:17,026 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 18:32:17,026 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::, ips: 
+
+2024-07-19 18:33:31,803 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 18:33:31,803 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService::, ips: 
+
+2024-07-19 18:33:31,805 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 18:33:31,805 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService::, ips: 
+
+2024-07-19 18:33:31,806 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 18:33:31,806 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, ips: 
+
+2024-07-19 18:33:31,807 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 18:33:31,807 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService::, ips: 
+
+2024-07-19 19:57:20,969 ERROR [UPDATE-DOMAIN] Exception while taking item from LinkedBlockingDeque.
+
+2024-07-19 20:24:04,903 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 20:24:04,904 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 20:24:04,993 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 20:24:04,993 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 20:24:05,012 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 20:24:05,012 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 20:24:05,032 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 20:24:05,032 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 20:24:46,605 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 20:24:46,605 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService::, ips: 
+
+2024-07-19 20:24:46,608 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 20:24:46,608 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService::, ips: 
+
+2024-07-19 20:24:46,609 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 20:24:46,609 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, ips: 
+
+2024-07-19 20:24:46,610 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 20:24:46,610 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService::, ips: 
+
+2024-07-19 20:25:10,486 ERROR [UPDATE-DOMAIN] Exception while taking item from LinkedBlockingDeque.
+
+2024-07-19 21:20:01,628 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:20:01,629 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 21:20:01,725 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:20:01,725 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 21:20:01,744 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:20:01,744 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 21:20:01,763 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:20:01,763 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 21:25:00,210 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:25:00,210 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService::, ips: 
+
+2024-07-19 21:25:00,212 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:25:00,212 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService::, ips: 
+
+2024-07-19 21:25:00,214 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:25:00,214 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, ips: 
+
+2024-07-19 21:25:00,215 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:25:00,215 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService::, ips: 
+
+2024-07-19 21:25:10,949 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:25:10,949 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 21:25:11,013 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:25:11,013 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 21:25:11,027 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:25:11,027 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 21:25:11,040 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:25:11,040 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 21:25:19,727 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:25:19,727 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService::, ips: 
+
+2024-07-19 21:25:19,730 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:25:19,730 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService::, ips: 
+
+2024-07-19 21:25:19,731 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:25:19,731 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, ips: 
+
+2024-07-19 21:25:19,732 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:25:19,732 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService::, ips: 
+
+2024-07-19 21:25:29,044 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:25:29,044 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 21:25:29,106 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:25:29,106 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 21:25:29,119 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:25:29,119 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 21:25:29,134 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:25:29,134 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 21:26:09,294 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:26:09,294 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::, ips: 198.18.0.1:0_true,
+
+2024-07-19 21:26:09,455 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:26:09,455 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserService::, ips: 198.18.0.1:0_true,
+
+2024-07-19 21:26:09,589 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:26:09,589 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService::, ips: 198.18.0.1:0_true,
+
+2024-07-19 21:26:09,790 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:26:09,790 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService::, ips: 198.18.0.1:0_true,
+
+2024-07-19 21:27:20,168 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:27:20,168 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService::, ips: 
+
+2024-07-19 21:27:20,170 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:27:20,170 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService::, ips: 
+
+2024-07-19 21:27:20,171 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:27:20,171 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, ips: 
+
+2024-07-19 21:27:20,172 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:27:20,172 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService::, ips: 
+
+2024-07-19 21:27:42,369 ERROR [UPDATE-DOMAIN] Exception while taking item from LinkedBlockingDeque.
+
+2024-07-19 21:28:14,592 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:28:14,593 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.project.provider.DemoService::, ips: 198.18.0.1:0_true,
+
+2024-07-19 21:28:14,665 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:28:14,665 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserService::, ips: 198.18.0.1:0_true,
+
+2024-07-19 21:28:14,793 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:28:14,793 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService::, ips: 198.18.0.1:0_true,
+
+2024-07-19 21:28:15,015 INFO DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:28:15,015 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService::, ips: 198.18.0.1:0_true,
+
+2024-07-19 21:28:23,695 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:28:23,695 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 21:28:23,767 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:28:23,767 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 21:28:23,782 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:28:23,782 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 21:28:23,800 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:28:23,800 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService::, ips: 198.18.0.1:22221_true,
+
+2024-07-19 21:28:36,997 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:28:36,998 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerInterfaceInfoService::, ips: 
+
+2024-07-19 21:28:37,001 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:28:37,001 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserService::, ips: 
+
+2024-07-19 21:28:37,003 INFO DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:28:37,003 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.project.provider.DemoService::, ips: 
+
+2024-07-19 21:28:37,005 INFO DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.0.1:22221:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-07-19 21:28:37,005 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService::, ips: 
+
+2024-07-19 21:29:01,027 ERROR [UPDATE-DOMAIN] Exception while taking item from LinkedBlockingDeque.
+

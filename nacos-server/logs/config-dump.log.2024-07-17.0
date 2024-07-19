@@ -1,0 +1,6 @@
+2024-07-17 16:23:53,112 INFO [dump-all-ok] com.lilibozhi.project.provider.DemoService:::provider:dubbo-springboot-demo-provider+dubbo, 1721120138457, length=2332, md5=b236da94e4116f26d50e7c2f1e6490d5
+
+2024-07-17 16:23:53,112 INFO [dump-all-ok] com.lilibozhi.project.provider.DemoService:::consumer:dubbo-springboot-demo-provider+dubbo, 1721120413339, length=260, md5=e44fd4e998eb723631445944df81560b
+
+2024-07-17 16:24:01,539 INFO [dump-task] add task. groupKey=com.lilibozhi.project.provider.DemoService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.project.provider.DemoService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+

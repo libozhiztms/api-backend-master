@@ -1,0 +1,150 @@
+2024-07-18 09:47:14,988 INFO [dump-task] add task. groupKey=com.lilibozhi.project.provider.DemoService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.project.provider.DemoService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 11:11:08,112 INFO [dump-task] add task. groupKey=com.lilibozhi.project.provider.DemoService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.project.provider.DemoService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 11:11:08,126 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 11:11:08,136 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 11:11:08,149 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerUserService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerUserService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 11:11:15,384 INFO [dump-task] add task. groupKey=com.lilibozhi.project.provider.DemoService:::consumer:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.project.provider.DemoService:::consumer:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 11:11:15,471 WARN [dump-ignore] ignore to save cache file. groupKey=com.lilibozhi.project.provider.DemoService:::consumer:dubbo-springboot-demo-provider+dubbo, md5=e44fd4e998eb723631445944df81560b, lastModifiedOld=1721120413339, lastModifiedNew=1721272275380
+
+2024-07-18 15:28:27,004 INFO [dump-task] add task. groupKey=com.lilibozhi.project.provider.DemoService:::consumer:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.project.provider.DemoService:::consumer:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 15:28:27,045 WARN [dump-ignore] ignore to save cache file. groupKey=com.lilibozhi.project.provider.DemoService:::consumer:dubbo-springboot-demo-provider+dubbo, md5=e44fd4e998eb723631445944df81560b, lastModifiedOld=1721120413339, lastModifiedNew=1721287707000
+
+2024-07-18 15:28:27,159 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerUserService:::consumer:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerUserService:::consumer:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 15:28:27,365 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 15:28:27,564 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 16:23:56,552 INFO [dump-task] add task. groupKey=com.lilibozhi.project.provider.DemoService:::consumer:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.project.provider.DemoService:::consumer:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 16:23:56,606 WARN [dump-ignore] ignore to save cache file. groupKey=com.lilibozhi.project.provider.DemoService:::consumer:dubbo-springboot-demo-provider+dubbo, md5=e44fd4e998eb723631445944df81560b, lastModifiedOld=1721120413339, lastModifiedNew=1721291036544
+
+2024-07-18 16:23:56,706 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerUserService:::consumer:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerUserService:::consumer:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 16:23:56,707 WARN [dump-ignore] ignore to save cache file. groupKey=com.lilibozhi.apicommon.service.InnerUserService:::consumer:dubbo-springboot-demo-provider+dubbo, md5=128cce318a9c8a1dcb1bc515bb36d17c, lastModifiedOld=1721287707156, lastModifiedNew=1721291036702
+
+2024-07-18 16:23:56,905 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 16:23:56,913 WARN [dump-ignore] ignore to save cache file. groupKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo, md5=c2f28025bdfd103f355e03ac005d6bc4, lastModifiedOld=1721287707360, lastModifiedNew=1721291036901
+
+2024-07-18 16:23:57,106 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 16:23:57,124 WARN [dump-ignore] ignore to save cache file. groupKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo, md5=319cd752a2eb0975f7a192df7dca226d, lastModifiedOld=1721287707561, lastModifiedNew=1721291037103
+
+2024-07-18 17:03:58,832 INFO [dump-task] add task. groupKey=com.lilibozhi.project.provider.DemoService:::consumer:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.project.provider.DemoService:::consumer:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 17:03:58,909 WARN [dump-ignore] ignore to save cache file. groupKey=com.lilibozhi.project.provider.DemoService:::consumer:dubbo-springboot-demo-provider+dubbo, md5=e44fd4e998eb723631445944df81560b, lastModifiedOld=1721120413339, lastModifiedNew=1721293438827
+
+2024-07-18 17:03:58,980 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerUserService:::consumer:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerUserService:::consumer:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 17:03:59,009 WARN [dump-ignore] ignore to save cache file. groupKey=com.lilibozhi.apicommon.service.InnerUserService:::consumer:dubbo-springboot-demo-provider+dubbo, md5=128cce318a9c8a1dcb1bc515bb36d17c, lastModifiedOld=1721287707156, lastModifiedNew=1721293438978
+
+2024-07-18 17:03:59,181 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 17:03:59,219 WARN [dump-ignore] ignore to save cache file. groupKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo, md5=c2f28025bdfd103f355e03ac005d6bc4, lastModifiedOld=1721287707360, lastModifiedNew=1721293439179
+
+2024-07-18 17:03:59,384 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 17:03:59,427 WARN [dump-ignore] ignore to save cache file. groupKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo, md5=319cd752a2eb0975f7a192df7dca226d, lastModifiedOld=1721287707561, lastModifiedNew=1721293439382
+
+2024-07-18 17:11:05,737 INFO [dump-task] add task. groupKey=com.lilibozhi.project.provider.DemoService:::consumer:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.project.provider.DemoService:::consumer:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 17:11:05,767 WARN [dump-ignore] ignore to save cache file. groupKey=com.lilibozhi.project.provider.DemoService:::consumer:dubbo-springboot-demo-provider+dubbo, md5=e44fd4e998eb723631445944df81560b, lastModifiedOld=1721120413339, lastModifiedNew=1721293865733
+
+2024-07-18 17:11:05,887 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerUserService:::consumer:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerUserService:::consumer:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 17:11:05,973 WARN [dump-ignore] ignore to save cache file. groupKey=com.lilibozhi.apicommon.service.InnerUserService:::consumer:dubbo-springboot-demo-provider+dubbo, md5=128cce318a9c8a1dcb1bc515bb36d17c, lastModifiedOld=1721287707156, lastModifiedNew=1721293865884
+
+2024-07-18 17:11:06,083 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 17:11:06,176 WARN [dump-ignore] ignore to save cache file. groupKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo, md5=c2f28025bdfd103f355e03ac005d6bc4, lastModifiedOld=1721287707360, lastModifiedNew=1721293866080
+
+2024-07-18 17:11:06,286 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 17:11:06,383 WARN [dump-ignore] ignore to save cache file. groupKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo, md5=319cd752a2eb0975f7a192df7dca226d, lastModifiedOld=1721287707561, lastModifiedNew=1721293866284
+
+2024-07-18 17:29:51,890 INFO [dump-task] add task. groupKey=com.lilibozhi.project.provider.DemoService:::consumer:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.project.provider.DemoService:::consumer:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 17:29:51,934 WARN [dump-ignore] ignore to save cache file. groupKey=com.lilibozhi.project.provider.DemoService:::consumer:dubbo-springboot-demo-provider+dubbo, md5=e44fd4e998eb723631445944df81560b, lastModifiedOld=1721120413339, lastModifiedNew=1721294991886
+
+2024-07-18 17:29:52,044 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerUserService:::consumer:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerUserService:::consumer:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 17:29:52,142 WARN [dump-ignore] ignore to save cache file. groupKey=com.lilibozhi.apicommon.service.InnerUserService:::consumer:dubbo-springboot-demo-provider+dubbo, md5=128cce318a9c8a1dcb1bc515bb36d17c, lastModifiedOld=1721287707156, lastModifiedNew=1721294992041
+
+2024-07-18 17:29:52,246 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 17:29:52,351 WARN [dump-ignore] ignore to save cache file. groupKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo, md5=c2f28025bdfd103f355e03ac005d6bc4, lastModifiedOld=1721287707360, lastModifiedNew=1721294992244
+
+2024-07-18 17:29:52,447 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 17:29:52,457 WARN [dump-ignore] ignore to save cache file. groupKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::consumer:dubbo-springboot-demo-provider+dubbo, md5=319cd752a2eb0975f7a192df7dca226d, lastModifiedOld=1721287707561, lastModifiedNew=1721294992445
+
+2024-07-18 20:47:49,385 INFO [dump-task] add task. groupKey=com.lilibozhi.project.provider.DemoService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.project.provider.DemoService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 20:47:49,396 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 20:47:49,406 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 20:47:49,422 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerUserService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerUserService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 20:47:49,423 WARN [dump-ignore] ignore to save cache file. groupKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo, md5=44241480fa79643409504b7a8ff13ef1, lastModifiedOld=1721272268120, lastModifiedNew=1721306869391
+
+2024-07-18 21:19:20,325 INFO [dump-task] add task. groupKey=com.lilibozhi.project.provider.DemoService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.project.provider.DemoService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 21:19:20,334 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 21:19:20,344 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 21:19:20,354 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerUserService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerUserService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 21:19:20,425 WARN [dump-ignore] ignore to save cache file. groupKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo, md5=44241480fa79643409504b7a8ff13ef1, lastModifiedOld=1721272268120, lastModifiedNew=1721308760331
+
+2024-07-18 21:25:46,652 INFO [dump-task] add task. groupKey=com.lilibozhi.project.provider.DemoService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.project.provider.DemoService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 21:25:46,656 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 21:25:46,667 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 21:25:46,690 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerUserService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerUserService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 21:25:46,738 WARN [dump-ignore] ignore to save cache file. groupKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo, md5=44241480fa79643409504b7a8ff13ef1, lastModifiedOld=1721272268120, lastModifiedNew=1721309146654
+
+2024-07-18 23:05:12,256 INFO [dump-task] add task. groupKey=com.lilibozhi.project.provider.DemoService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.project.provider.DemoService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 23:05:12,266 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 23:05:12,282 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 23:05:12,290 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerUserService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerUserService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 23:05:12,291 WARN [dump-ignore] ignore to save cache file. groupKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo, md5=44241480fa79643409504b7a8ff13ef1, lastModifiedOld=1721272268120, lastModifiedNew=1721315112263
+
+2024-07-18 23:10:27,265 INFO [dump-task] add task. groupKey=com.lilibozhi.project.provider.DemoService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.project.provider.DemoService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 23:10:27,274 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 23:10:27,280 WARN [dump-ignore] ignore to save cache file. groupKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo, md5=44241480fa79643409504b7a8ff13ef1, lastModifiedOld=1721272268120, lastModifiedNew=1721315427271
+
+2024-07-18 23:10:27,286 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 23:10:27,297 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerUserService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerUserService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 23:15:18,039 INFO [dump-task] add task. groupKey=com.lilibozhi.project.provider.DemoService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.project.provider.DemoService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 23:15:18,050 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 23:15:18,061 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 23:15:18,072 INFO [dump-task] add task. groupKey=com.lilibozhi.apicommon.service.InnerUserService:::provider:dubbo-springboot-demo-provider+dubbo, taskKey=com.lilibozhi.apicommon.service.InnerUserService:::provider:dubbo-springboot-demo-provider+dubbo++false+null
+
+2024-07-18 23:15:18,094 WARN [dump-ignore] ignore to save cache file. groupKey=com.lilibozhi.apicommon.service.InnerInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo, md5=04ea5b050c0bc00bc43a5a86a0656aae, lastModifiedOld=1721315427284, lastModifiedNew=1721315718059
+
+2024-07-18 23:15:18,094 WARN [dump-ignore] ignore to save cache file. groupKey=com.lilibozhi.apicommon.service.InnerUserInterfaceInfoService:::provider:dubbo-springboot-demo-provider+dubbo, md5=44241480fa79643409504b7a8ff13ef1, lastModifiedOld=1721272268120, lastModifiedNew=1721315718048
+
